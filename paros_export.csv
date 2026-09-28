@@ -1,0 +1,1582 @@
+Paro_ID,Registro_ID,Fecha,Turno,Maquina,Causa_Paro,Duracion_min
+1,1,2025-01-01,Mañana,M1,Falla mecánica,7
+2,1,2025-01-01,Mañana,M1,Falla mecánica,90
+3,1,2025-01-01,Mañana,M1,Falta de material,36
+4,2,2025-01-01,Mañana,M2,Falla mecánica,9
+5,3,2025-01-01,Mañana,M3,Falta de material,5
+6,4,2025-01-01,Mañana,M4,Cambio de herramienta,17
+7,4,2025-01-01,Mañana,M4,Falla mecánica,42
+8,5,2025-01-01,Tarde,M1,Falta de material,17
+9,5,2025-01-01,Tarde,M1,Falla mecánica,30
+10,5,2025-01-01,Tarde,M1,Falla mecánica,108
+11,5,2025-01-01,Tarde,M1,Falla mecánica,48
+12,6,2025-01-01,Tarde,M2,Mantenimiento no programado,89
+13,7,2025-01-01,Tarde,M3,Falla mecánica,5
+14,7,2025-01-01,Tarde,M3,Falla mecánica,22
+15,8,2025-01-01,Tarde,M4,Cambio de herramienta,5
+16,9,2025-01-01,Noche,M1,Falla mecánica,76
+17,9,2025-01-01,Noche,M1,Falta de material,39
+18,10,2025-01-01,Noche,M2,Falta de operador,24
+19,11,2025-01-01,Noche,M3,Falta de material,30
+20,13,2025-01-02,Mañana,M1,Cambio de herramienta,11
+21,13,2025-01-02,Mañana,M1,Falla mecánica,5
+22,14,2025-01-02,Mañana,M2,Falta de operador,7
+23,15,2025-01-02,Mañana,M3,Falla mecánica,7
+24,16,2025-01-02,Mañana,M4,Falta de operador,19
+25,16,2025-01-02,Mañana,M4,Ajuste de calidad,33
+26,16,2025-01-02,Mañana,M4,Falla mecánica,5
+27,17,2025-01-02,Tarde,M1,Cambio de herramienta,10
+28,17,2025-01-02,Tarde,M1,Falla mecánica,5
+29,18,2025-01-02,Tarde,M2,Falta de material,13
+30,19,2025-01-02,Tarde,M3,Falla mecánica,15
+31,20,2025-01-02,Tarde,M4,Falla mecánica,107
+32,21,2025-01-02,Noche,M1,Falta de material,43
+33,21,2025-01-02,Noche,M1,Falla mecánica,58
+34,22,2025-01-02,Noche,M2,Ajuste de calidad,5
+35,22,2025-01-02,Noche,M2,Falla mecánica,5
+36,24,2025-01-02,Noche,M4,Falta de material,14
+37,25,2025-01-03,Mañana,M1,Falta de operador,52
+38,26,2025-01-03,Mañana,M2,Falla mecánica,102
+39,26,2025-01-03,Mañana,M2,Falta de operador,25
+40,26,2025-01-03,Mañana,M2,Falla mecánica,19
+41,27,2025-01-03,Mañana,M3,Falla mecánica,102
+42,27,2025-01-03,Mañana,M3,Falta de material,5
+43,27,2025-01-03,Mañana,M3,Falla mecánica,49
+44,28,2025-01-03,Mañana,M4,Falta de material,8
+45,28,2025-01-03,Mañana,M4,Falla mecánica,61
+46,28,2025-01-03,Mañana,M4,Falta de material,56
+47,30,2025-01-03,Tarde,M2,Falta de operador,24
+48,30,2025-01-03,Tarde,M2,Ajuste de calidad,10
+49,33,2025-01-03,Noche,M1,Falta de operador,13
+50,33,2025-01-03,Noche,M1,Mantenimiento no programado,198
+51,33,2025-01-03,Noche,M1,Falta de operador,8
+52,33,2025-01-03,Noche,M1,Cambio de herramienta,38
+53,34,2025-01-03,Noche,M2,Falla mecánica,42
+54,34,2025-01-03,Noche,M2,Mantenimiento no programado,9
+55,34,2025-01-03,Noche,M2,Cambio de herramienta,41
+56,35,2025-01-03,Noche,M3,Ajuste de calidad,24
+57,35,2025-01-03,Noche,M3,Falta de operador,61
+58,36,2025-01-03,Noche,M4,Cambio de herramienta,5
+59,36,2025-01-03,Noche,M4,Cambio de herramienta,5
+60,36,2025-01-03,Noche,M4,Cambio de herramienta,15
+61,36,2025-01-03,Noche,M4,Falla mecánica,40
+62,36,2025-01-03,Noche,M4,Falla mecánica,5
+63,40,2025-01-04,Mañana,M4,Ajuste de calidad,5
+64,40,2025-01-04,Mañana,M4,Cambio de herramienta,5
+65,40,2025-01-04,Mañana,M4,Falla mecánica,147
+66,40,2025-01-04,Mañana,M4,Ajuste de calidad,17
+67,42,2025-01-04,Tarde,M2,Mantenimiento no programado,80
+68,42,2025-01-04,Tarde,M2,Cambio de herramienta,18
+69,43,2025-01-04,Tarde,M3,Falla mecánica,5
+70,43,2025-01-04,Tarde,M3,Falla mecánica,87
+71,46,2025-01-04,Noche,M2,Cambio de herramienta,19
+72,46,2025-01-04,Noche,M2,Cambio de herramienta,38
+73,48,2025-01-04,Noche,M4,Falta de material,18
+74,48,2025-01-04,Noche,M4,Cambio de herramienta,56
+75,48,2025-01-04,Noche,M4,Cambio de herramienta,64
+76,51,2025-01-05,Mañana,M3,Ajuste de calidad,5
+77,51,2025-01-05,Mañana,M3,Falla mecánica,53
+78,52,2025-01-05,Mañana,M4,Falla mecánica,62
+79,52,2025-01-05,Mañana,M4,Ajuste de calidad,69
+80,53,2025-01-05,Tarde,M1,Cambio de herramienta,27
+81,53,2025-01-05,Tarde,M1,Ajuste de calidad,5
+82,53,2025-01-05,Tarde,M1,Falta de operador,17
+83,54,2025-01-05,Tarde,M2,Falta de operador,5
+84,54,2025-01-05,Tarde,M2,Falla mecánica,134
+85,55,2025-01-05,Tarde,M3,Falla mecánica,50
+86,55,2025-01-05,Tarde,M3,Ajuste de calidad,23
+87,56,2025-01-05,Tarde,M4,Cambio de herramienta,11
+88,58,2025-01-05,Noche,M2,Falla mecánica,54
+89,59,2025-01-05,Noche,M3,Falla mecánica,194
+90,60,2025-01-05,Noche,M4,Falla mecánica,67
+91,60,2025-01-05,Noche,M4,Cambio de herramienta,11
+92,60,2025-01-05,Noche,M4,Falta de operador,5
+93,60,2025-01-05,Noche,M4,Cambio de herramienta,5
+94,62,2025-01-06,Mañana,M2,Falla mecánica,91
+95,62,2025-01-06,Mañana,M2,Falla mecánica,148
+96,62,2025-01-06,Mañana,M2,Falla mecánica,157
+97,63,2025-01-06,Mañana,M3,Cambio de herramienta,69
+98,63,2025-01-06,Mañana,M3,Cambio de herramienta,19
+99,64,2025-01-06,Mañana,M4,Falla mecánica,135
+100,64,2025-01-06,Mañana,M4,Falta de operador,15
+101,64,2025-01-06,Mañana,M4,Falta de material,9
+102,65,2025-01-06,Tarde,M1,Falla mecánica,164
+103,66,2025-01-06,Tarde,M2,Ajuste de calidad,17
+104,67,2025-01-06,Tarde,M3,Mantenimiento no programado,120
+105,67,2025-01-06,Tarde,M3,Falla mecánica,5
+106,67,2025-01-06,Tarde,M3,Cambio de herramienta,33
+107,67,2025-01-06,Tarde,M3,Mantenimiento no programado,9
+108,68,2025-01-06,Tarde,M4,Falla mecánica,5
+109,68,2025-01-06,Tarde,M4,Falta de operador,41
+110,68,2025-01-06,Tarde,M4,Mantenimiento no programado,341
+111,68,2025-01-06,Tarde,M4,Cambio de herramienta,29
+112,69,2025-01-06,Noche,M1,Falla mecánica,138
+113,70,2025-01-06,Noche,M2,Falla mecánica,50
+114,70,2025-01-06,Noche,M2,Cambio de herramienta,29
+115,71,2025-01-06,Noche,M3,Falla mecánica,5
+116,71,2025-01-06,Noche,M3,Ajuste de calidad,14
+117,71,2025-01-06,Noche,M3,Falta de material,7
+118,72,2025-01-06,Noche,M4,Cambio de herramienta,11
+119,73,2025-01-07,Mañana,M1,Falta de material,59
+120,73,2025-01-07,Mañana,M1,Mantenimiento no programado,9
+121,74,2025-01-07,Mañana,M2,Mantenimiento no programado,40
+122,75,2025-01-07,Mañana,M3,Falla mecánica,6
+123,76,2025-01-07,Mañana,M4,Falla mecánica,102
+124,81,2025-01-07,Noche,M1,Ajuste de calidad,14
+125,82,2025-01-07,Noche,M2,Falla mecánica,73
+126,84,2025-01-07,Noche,M4,Falta de material,5
+127,84,2025-01-07,Noche,M4,Falla mecánica,56
+128,85,2025-01-08,Mañana,M1,Cambio de herramienta,15
+129,86,2025-01-08,Mañana,M2,Falla mecánica,10
+130,87,2025-01-08,Mañana,M3,Falla mecánica,34
+131,87,2025-01-08,Mañana,M3,Cambio de herramienta,27
+132,87,2025-01-08,Mañana,M3,Cambio de herramienta,5
+133,87,2025-01-08,Mañana,M3,Falla mecánica,20
+134,88,2025-01-08,Mañana,M4,Falla mecánica,5
+135,88,2025-01-08,Mañana,M4,Falla mecánica,12
+136,89,2025-01-08,Tarde,M1,Falta de operador,5
+137,90,2025-01-08,Tarde,M2,Cambio de herramienta,69
+138,91,2025-01-08,Tarde,M3,Falta de material,79
+139,92,2025-01-08,Tarde,M4,Falla mecánica,17
+140,93,2025-01-08,Noche,M1,Falta de material,10
+141,94,2025-01-08,Noche,M2,Falla mecánica,6
+142,94,2025-01-08,Noche,M2,Falla mecánica,207
+143,95,2025-01-08,Noche,M3,Ajuste de calidad,13
+144,96,2025-01-08,Noche,M4,Falta de material,83
+145,96,2025-01-08,Noche,M4,Falla mecánica,5
+146,96,2025-01-08,Noche,M4,Falta de material,25
+147,96,2025-01-08,Noche,M4,Ajuste de calidad,5
+148,98,2025-01-09,Mañana,M2,Falta de operador,12
+149,98,2025-01-09,Mañana,M2,Ajuste de calidad,8
+150,99,2025-01-09,Mañana,M3,Falla mecánica,103
+151,99,2025-01-09,Mañana,M3,Cambio de herramienta,15
+152,101,2025-01-09,Tarde,M1,Ajuste de calidad,14
+153,102,2025-01-09,Tarde,M2,Falla mecánica,12
+154,103,2025-01-09,Tarde,M3,Ajuste de calidad,5
+155,103,2025-01-09,Tarde,M3,Ajuste de calidad,5
+156,103,2025-01-09,Tarde,M3,Cambio de herramienta,31
+157,104,2025-01-09,Tarde,M4,Falla mecánica,19
+158,104,2025-01-09,Tarde,M4,Falla mecánica,107
+159,104,2025-01-09,Tarde,M4,Cambio de herramienta,10
+160,104,2025-01-09,Tarde,M4,Cambio de herramienta,58
+161,105,2025-01-09,Noche,M1,Falta de operador,67
+162,105,2025-01-09,Noche,M1,Cambio de herramienta,23
+163,107,2025-01-09,Noche,M3,Falla mecánica,188
+164,107,2025-01-09,Noche,M3,Ajuste de calidad,5
+165,107,2025-01-09,Noche,M3,Falta de operador,50
+166,107,2025-01-09,Noche,M3,Cambio de herramienta,17
+167,108,2025-01-09,Noche,M4,Falla mecánica,22
+168,108,2025-01-09,Noche,M4,Cambio de herramienta,50
+169,109,2025-01-10,Mañana,M1,Cambio de herramienta,5
+170,109,2025-01-10,Mañana,M1,Falla mecánica,31
+171,110,2025-01-10,Mañana,M2,Falta de material,5
+172,111,2025-01-10,Mañana,M3,Cambio de herramienta,5
+173,112,2025-01-10,Mañana,M4,Falta de material,7
+174,114,2025-01-10,Tarde,M2,Ajuste de calidad,9
+175,115,2025-01-10,Tarde,M3,Falla mecánica,89
+176,115,2025-01-10,Tarde,M3,Mantenimiento no programado,28
+177,116,2025-01-10,Tarde,M4,Falla mecánica,56
+178,121,2025-01-11,Mañana,M1,Falla mecánica,15
+179,121,2025-01-11,Mañana,M1,Falta de operador,5
+180,121,2025-01-11,Mañana,M1,Falla mecánica,10
+181,122,2025-01-11,Mañana,M2,Ajuste de calidad,6
+182,122,2025-01-11,Mañana,M2,Falla mecánica,21
+183,123,2025-01-11,Mañana,M3,Cambio de herramienta,6
+184,123,2025-01-11,Mañana,M3,Mantenimiento no programado,86
+185,124,2025-01-11,Mañana,M4,Falla mecánica,14
+186,124,2025-01-11,Mañana,M4,Cambio de herramienta,20
+187,124,2025-01-11,Mañana,M4,Falla mecánica,6
+188,125,2025-01-11,Tarde,M1,Falla mecánica,5
+189,126,2025-01-11,Tarde,M2,Cambio de herramienta,21
+190,128,2025-01-11,Tarde,M4,Falla mecánica,110
+191,128,2025-01-11,Tarde,M4,Cambio de herramienta,9
+192,128,2025-01-11,Tarde,M4,Cambio de herramienta,5
+193,130,2025-01-11,Noche,M2,Cambio de herramienta,25
+194,131,2025-01-11,Noche,M3,Falla mecánica,5
+195,131,2025-01-11,Noche,M3,Falla mecánica,40
+196,131,2025-01-11,Noche,M3,Falla mecánica,30
+197,132,2025-01-11,Noche,M4,Falla mecánica,58
+198,133,2025-01-12,Mañana,M1,Ajuste de calidad,24
+199,134,2025-01-12,Mañana,M2,Falla mecánica,112
+200,135,2025-01-12,Mañana,M3,Cambio de herramienta,41
+201,136,2025-01-12,Mañana,M4,Cambio de herramienta,5
+202,136,2025-01-12,Mañana,M4,Mantenimiento no programado,173
+203,136,2025-01-12,Mañana,M4,Falla mecánica,55
+204,137,2025-01-12,Tarde,M1,Falta de material,10
+205,137,2025-01-12,Tarde,M1,Falta de operador,88
+206,138,2025-01-12,Tarde,M2,Falla mecánica,40
+207,138,2025-01-12,Tarde,M2,Falla mecánica,5
+208,138,2025-01-12,Tarde,M2,Falla mecánica,53
+209,140,2025-01-12,Tarde,M4,Falta de operador,23
+210,140,2025-01-12,Tarde,M4,Falla mecánica,5
+211,141,2025-01-12,Noche,M1,Ajuste de calidad,7
+212,141,2025-01-12,Noche,M1,Cambio de herramienta,19
+213,141,2025-01-12,Noche,M1,Falta de operador,103
+214,141,2025-01-12,Noche,M1,Ajuste de calidad,8
+215,141,2025-01-12,Noche,M1,Cambio de herramienta,26
+216,142,2025-01-12,Noche,M2,Falla mecánica,11
+217,143,2025-01-12,Noche,M3,Falta de material,7
+218,143,2025-01-12,Noche,M3,Mantenimiento no programado,92
+219,144,2025-01-12,Noche,M4,Mantenimiento no programado,15
+220,144,2025-01-12,Noche,M4,Mantenimiento no programado,62
+221,144,2025-01-12,Noche,M4,Falta de material,21
+222,144,2025-01-12,Noche,M4,Falla mecánica,8
+223,145,2025-01-13,Mañana,M1,Mantenimiento no programado,129
+224,145,2025-01-13,Mañana,M1,Falta de operador,132
+225,146,2025-01-13,Mañana,M2,Ajuste de calidad,5
+226,146,2025-01-13,Mañana,M2,Falla mecánica,34
+227,149,2025-01-13,Tarde,M1,Cambio de herramienta,9
+228,149,2025-01-13,Tarde,M1,Falla mecánica,57
+229,149,2025-01-13,Tarde,M1,Cambio de herramienta,5
+230,149,2025-01-13,Tarde,M1,Falla mecánica,51
+231,150,2025-01-13,Tarde,M2,Ajuste de calidad,6
+232,150,2025-01-13,Tarde,M2,Falta de material,25
+233,151,2025-01-13,Tarde,M3,Falta de material,28
+234,151,2025-01-13,Tarde,M3,Ajuste de calidad,5
+235,151,2025-01-13,Tarde,M3,Falta de operador,51
+236,151,2025-01-13,Tarde,M3,Falla mecánica,78
+237,151,2025-01-13,Tarde,M3,Falla mecánica,18
+238,151,2025-01-13,Tarde,M3,Falta de material,5
+239,152,2025-01-13,Tarde,M4,Falla mecánica,43
+240,153,2025-01-13,Noche,M1,Cambio de herramienta,30
+241,154,2025-01-13,Noche,M2,Falta de material,80
+242,154,2025-01-13,Noche,M2,Falla mecánica,124
+243,155,2025-01-13,Noche,M3,Falla mecánica,39
+244,157,2025-01-14,Mañana,M1,Ajuste de calidad,5
+245,157,2025-01-14,Mañana,M1,Falla mecánica,17
+246,158,2025-01-14,Mañana,M2,Mantenimiento no programado,33
+247,158,2025-01-14,Mañana,M2,Cambio de herramienta,5
+248,160,2025-01-14,Mañana,M4,Mantenimiento no programado,9
+249,161,2025-01-14,Tarde,M1,Falla mecánica,186
+250,161,2025-01-14,Tarde,M1,Cambio de herramienta,44
+251,163,2025-01-14,Tarde,M3,Falta de operador,37
+252,163,2025-01-14,Tarde,M3,Ajuste de calidad,27
+253,163,2025-01-14,Tarde,M3,Ajuste de calidad,14
+254,164,2025-01-14,Tarde,M4,Falla mecánica,6
+255,164,2025-01-14,Tarde,M4,Falta de material,16
+256,164,2025-01-14,Tarde,M4,Falla mecánica,30
+257,165,2025-01-14,Noche,M1,Falla mecánica,27
+258,166,2025-01-14,Noche,M2,Falta de material,10
+259,167,2025-01-14,Noche,M3,Cambio de herramienta,5
+260,169,2025-01-15,Mañana,M1,Falla mecánica,32
+261,169,2025-01-15,Mañana,M1,Falla mecánica,19
+262,170,2025-01-15,Mañana,M2,Cambio de herramienta,23
+263,172,2025-01-15,Mañana,M4,Mantenimiento no programado,5
+264,173,2025-01-15,Tarde,M1,Ajuste de calidad,5
+265,173,2025-01-15,Tarde,M1,Falta de operador,19
+266,173,2025-01-15,Tarde,M1,Ajuste de calidad,9
+267,174,2025-01-15,Tarde,M2,Falla mecánica,12
+268,177,2025-01-15,Noche,M1,Falla mecánica,252
+269,177,2025-01-15,Noche,M1,Mantenimiento no programado,63
+270,179,2025-01-15,Noche,M3,Cambio de herramienta,8
+271,179,2025-01-15,Noche,M3,Cambio de herramienta,87
+272,179,2025-01-15,Noche,M3,Falla mecánica,90
+273,180,2025-01-15,Noche,M4,Falla mecánica,40
+274,180,2025-01-15,Noche,M4,Falta de operador,5
+275,180,2025-01-15,Noche,M4,Falta de material,29
+276,180,2025-01-15,Noche,M4,Falta de material,5
+277,183,2025-01-16,Mañana,M3,Cambio de herramienta,14
+278,185,2025-01-16,Tarde,M1,Falla mecánica,66
+279,186,2025-01-16,Tarde,M2,Falla mecánica,8
+280,187,2025-01-16,Tarde,M3,Falta de material,36
+281,187,2025-01-16,Tarde,M3,Falla mecánica,8
+282,188,2025-01-16,Tarde,M4,Cambio de herramienta,40
+283,188,2025-01-16,Tarde,M4,Falla mecánica,5
+284,188,2025-01-16,Tarde,M4,Falla mecánica,5
+285,190,2025-01-16,Noche,M2,Falla mecánica,7
+286,190,2025-01-16,Noche,M2,Mantenimiento no programado,201
+287,191,2025-01-16,Noche,M3,Cambio de herramienta,21
+288,191,2025-01-16,Noche,M3,Falla mecánica,5
+289,191,2025-01-16,Noche,M3,Falla mecánica,54
+290,192,2025-01-16,Noche,M4,Falta de material,17
+291,193,2025-01-17,Mañana,M1,Falta de material,60
+292,193,2025-01-17,Mañana,M1,Cambio de herramienta,5
+293,193,2025-01-17,Mañana,M1,Mantenimiento no programado,70
+294,193,2025-01-17,Mañana,M1,Falta de material,7
+295,194,2025-01-17,Mañana,M2,Falta de material,223
+296,195,2025-01-17,Mañana,M3,Falta de material,63
+297,195,2025-01-17,Mañana,M3,Cambio de herramienta,7
+298,195,2025-01-17,Mañana,M3,Falta de material,49
+299,196,2025-01-17,Mañana,M4,Cambio de herramienta,5
+300,196,2025-01-17,Mañana,M4,Falla mecánica,20
+301,197,2025-01-17,Tarde,M1,Falla mecánica,21
+302,198,2025-01-17,Tarde,M2,Cambio de herramienta,39
+303,198,2025-01-17,Tarde,M2,Cambio de herramienta,13
+304,198,2025-01-17,Tarde,M2,Falla mecánica,18
+305,199,2025-01-17,Tarde,M3,Ajuste de calidad,25
+306,199,2025-01-17,Tarde,M3,Falta de material,93
+307,201,2025-01-17,Noche,M1,Mantenimiento no programado,25
+308,201,2025-01-17,Noche,M1,Falla mecánica,29
+309,202,2025-01-17,Noche,M2,Falla mecánica,42
+310,202,2025-01-17,Noche,M2,Falta de material,9
+311,204,2025-01-17,Noche,M4,Cambio de herramienta,5
+312,204,2025-01-17,Noche,M4,Mantenimiento no programado,39
+313,206,2025-01-18,Mañana,M2,Falla mecánica,42
+314,206,2025-01-18,Mañana,M2,Cambio de herramienta,36
+315,206,2025-01-18,Mañana,M2,Falta de operador,10
+316,207,2025-01-18,Mañana,M3,Falta de material,5
+317,207,2025-01-18,Mañana,M3,Falta de material,18
+318,208,2025-01-18,Mañana,M4,Falla mecánica,5
+319,208,2025-01-18,Mañana,M4,Falta de material,28
+320,209,2025-01-18,Tarde,M1,Mantenimiento no programado,8
+321,209,2025-01-18,Tarde,M1,Falta de material,15
+322,210,2025-01-18,Tarde,M2,Falla mecánica,57
+323,210,2025-01-18,Tarde,M2,Cambio de herramienta,6
+324,211,2025-01-18,Tarde,M3,Falla mecánica,11
+325,212,2025-01-18,Tarde,M4,Ajuste de calidad,5
+326,213,2025-01-18,Noche,M1,Falla mecánica,49
+327,213,2025-01-18,Noche,M1,Mantenimiento no programado,65
+328,214,2025-01-18,Noche,M2,Cambio de herramienta,63
+329,216,2025-01-18,Noche,M4,Falta de material,47
+330,216,2025-01-18,Noche,M4,Falta de operador,6
+331,217,2025-01-19,Mañana,M1,Falta de material,5
+332,217,2025-01-19,Mañana,M1,Ajuste de calidad,5
+333,217,2025-01-19,Mañana,M1,Ajuste de calidad,22
+334,217,2025-01-19,Mañana,M1,Falta de material,5
+335,218,2025-01-19,Mañana,M2,Mantenimiento no programado,48
+336,219,2025-01-19,Mañana,M3,Falta de operador,17
+337,219,2025-01-19,Mañana,M3,Mantenimiento no programado,114
+338,221,2025-01-19,Tarde,M1,Falla mecánica,23
+339,221,2025-01-19,Tarde,M1,Falla mecánica,53
+340,221,2025-01-19,Tarde,M1,Falla mecánica,167
+341,221,2025-01-19,Tarde,M1,Falta de material,51
+342,222,2025-01-19,Tarde,M2,Falla mecánica,31
+343,222,2025-01-19,Tarde,M2,Cambio de herramienta,5
+344,222,2025-01-19,Tarde,M2,Cambio de herramienta,5
+345,223,2025-01-19,Tarde,M3,Falla mecánica,31
+346,223,2025-01-19,Tarde,M3,Cambio de herramienta,5
+347,223,2025-01-19,Tarde,M3,Falta de material,7
+348,225,2025-01-19,Noche,M1,Mantenimiento no programado,5
+349,226,2025-01-19,Noche,M2,Falla mecánica,16
+350,228,2025-01-19,Noche,M4,Falta de material,22
+351,228,2025-01-19,Noche,M4,Cambio de herramienta,5
+352,230,2025-01-20,Mañana,M2,Cambio de herramienta,13
+353,230,2025-01-20,Mañana,M2,Falla mecánica,13
+354,230,2025-01-20,Mañana,M2,Ajuste de calidad,5
+355,232,2025-01-20,Mañana,M4,Cambio de herramienta,12
+356,232,2025-01-20,Mañana,M4,Ajuste de calidad,5
+357,232,2025-01-20,Mañana,M4,Cambio de herramienta,5
+358,233,2025-01-20,Tarde,M1,Cambio de herramienta,12
+359,234,2025-01-20,Tarde,M2,Cambio de herramienta,5
+360,234,2025-01-20,Tarde,M2,Ajuste de calidad,5
+361,234,2025-01-20,Tarde,M2,Falta de operador,15
+362,235,2025-01-20,Tarde,M3,Cambio de herramienta,5
+363,235,2025-01-20,Tarde,M3,Falta de material,21
+364,235,2025-01-20,Tarde,M3,Falta de material,5
+365,237,2025-01-20,Noche,M1,Falla mecánica,67
+366,237,2025-01-20,Noche,M1,Falta de material,6
+367,237,2025-01-20,Noche,M1,Falla mecánica,5
+368,238,2025-01-20,Noche,M2,Falla mecánica,154
+369,239,2025-01-20,Noche,M3,Falla mecánica,42
+370,239,2025-01-20,Noche,M3,Ajuste de calidad,15
+371,240,2025-01-20,Noche,M4,Falta de material,26
+372,240,2025-01-20,Noche,M4,Falta de material,50
+373,240,2025-01-20,Noche,M4,Falta de material,5
+374,241,2025-01-21,Mañana,M1,Cambio de herramienta,11
+375,242,2025-01-21,Mañana,M2,Falla mecánica,98
+376,243,2025-01-21,Mañana,M3,Ajuste de calidad,9
+377,243,2025-01-21,Mañana,M3,Ajuste de calidad,19
+378,243,2025-01-21,Mañana,M3,Ajuste de calidad,16
+379,243,2025-01-21,Mañana,M3,Falla mecánica,35
+380,245,2025-01-21,Tarde,M1,Cambio de herramienta,36
+381,245,2025-01-21,Tarde,M1,Falta de material,23
+382,246,2025-01-21,Tarde,M2,Falta de material,61
+383,248,2025-01-21,Tarde,M4,Mantenimiento no programado,6
+384,250,2025-01-21,Noche,M2,Cambio de herramienta,30
+385,251,2025-01-21,Noche,M3,Falta de material,6
+386,252,2025-01-21,Noche,M4,Falla mecánica,94
+387,253,2025-01-22,Mañana,M1,Cambio de herramienta,10
+388,253,2025-01-22,Mañana,M1,Falta de material,5
+389,253,2025-01-22,Mañana,M1,Falta de material,13
+390,254,2025-01-22,Mañana,M2,Falla mecánica,39
+391,254,2025-01-22,Mañana,M2,Cambio de herramienta,16
+392,255,2025-01-22,Mañana,M3,Ajuste de calidad,10
+393,256,2025-01-22,Mañana,M4,Ajuste de calidad,10
+394,256,2025-01-22,Mañana,M4,Cambio de herramienta,5
+395,258,2025-01-22,Tarde,M2,Falta de material,46
+396,258,2025-01-22,Tarde,M2,Falla mecánica,23
+397,258,2025-01-22,Tarde,M2,Ajuste de calidad,7
+398,258,2025-01-22,Tarde,M2,Cambio de herramienta,17
+399,259,2025-01-22,Tarde,M3,Falla mecánica,80
+400,260,2025-01-22,Tarde,M4,Cambio de herramienta,41
+401,260,2025-01-22,Tarde,M4,Ajuste de calidad,5
+402,261,2025-01-22,Noche,M1,Falla mecánica,58
+403,262,2025-01-22,Noche,M2,Falta de material,5
+404,262,2025-01-22,Noche,M2,Ajuste de calidad,16
+405,264,2025-01-22,Noche,M4,Falla mecánica,64
+406,264,2025-01-22,Noche,M4,Cambio de herramienta,29
+407,267,2025-01-23,Mañana,M3,Falta de material,99
+408,267,2025-01-23,Mañana,M3,Cambio de herramienta,55
+409,268,2025-01-23,Mañana,M4,Mantenimiento no programado,17
+410,269,2025-01-23,Tarde,M1,Falla mecánica,5
+411,269,2025-01-23,Tarde,M1,Falla mecánica,11
+412,269,2025-01-23,Tarde,M1,Falla mecánica,85
+413,274,2025-01-23,Noche,M2,Falta de material,23
+414,274,2025-01-23,Noche,M2,Falla mecánica,32
+415,276,2025-01-23,Noche,M4,Falla mecánica,63
+416,277,2025-01-24,Mañana,M1,Cambio de herramienta,83
+417,277,2025-01-24,Mañana,M1,Ajuste de calidad,5
+418,277,2025-01-24,Mañana,M1,Falla mecánica,28
+419,278,2025-01-24,Mañana,M2,Falta de material,51
+420,279,2025-01-24,Mañana,M3,Cambio de herramienta,6
+421,280,2025-01-24,Mañana,M4,Falta de operador,19
+422,280,2025-01-24,Mañana,M4,Falla mecánica,53
+423,281,2025-01-24,Tarde,M1,Mantenimiento no programado,9
+424,281,2025-01-24,Tarde,M1,Falla mecánica,9
+425,284,2025-01-24,Tarde,M4,Mantenimiento no programado,66
+426,284,2025-01-24,Tarde,M4,Falta de material,5
+427,286,2025-01-24,Noche,M2,Falta de material,6
+428,286,2025-01-24,Noche,M2,Falta de operador,42
+429,286,2025-01-24,Noche,M2,Cambio de herramienta,24
+430,287,2025-01-24,Noche,M3,Cambio de herramienta,35
+431,287,2025-01-24,Noche,M3,Falla mecánica,8
+432,289,2025-01-25,Mañana,M1,Falta de material,31
+433,290,2025-01-25,Mañana,M2,Falta de material,11
+434,290,2025-01-25,Mañana,M2,Falta de material,5
+435,290,2025-01-25,Mañana,M2,Falla mecánica,87
+436,290,2025-01-25,Mañana,M2,Falla mecánica,81
+437,291,2025-01-25,Mañana,M3,Falla mecánica,5
+438,291,2025-01-25,Mañana,M3,Falla mecánica,47
+439,292,2025-01-25,Mañana,M4,Falta de operador,27
+440,292,2025-01-25,Mañana,M4,Cambio de herramienta,5
+441,292,2025-01-25,Mañana,M4,Cambio de herramienta,12
+442,293,2025-01-25,Tarde,M1,Cambio de herramienta,5
+443,293,2025-01-25,Tarde,M1,Falta de material,75
+444,294,2025-01-25,Tarde,M2,Ajuste de calidad,5
+445,294,2025-01-25,Tarde,M2,Mantenimiento no programado,77
+446,295,2025-01-25,Tarde,M3,Falta de material,23
+447,295,2025-01-25,Tarde,M3,Falla mecánica,12
+448,296,2025-01-25,Tarde,M4,Falla mecánica,16
+449,297,2025-01-25,Noche,M1,Falla mecánica,12
+450,297,2025-01-25,Noche,M1,Ajuste de calidad,5
+451,297,2025-01-25,Noche,M1,Cambio de herramienta,107
+452,297,2025-01-25,Noche,M1,Falta de operador,18
+453,297,2025-01-25,Noche,M1,Falla mecánica,80
+454,299,2025-01-25,Noche,M3,Cambio de herramienta,7
+455,299,2025-01-25,Noche,M3,Cambio de herramienta,29
+456,299,2025-01-25,Noche,M3,Falta de material,66
+457,300,2025-01-25,Noche,M4,Cambio de herramienta,5
+458,300,2025-01-25,Noche,M4,Cambio de herramienta,13
+459,300,2025-01-25,Noche,M4,Falta de material,90
+460,301,2025-01-26,Mañana,M1,Falla mecánica,20
+461,301,2025-01-26,Mañana,M1,Cambio de herramienta,5
+462,302,2025-01-26,Mañana,M2,Falla mecánica,42
+463,302,2025-01-26,Mañana,M2,Falla mecánica,10
+464,305,2025-01-26,Tarde,M1,Mantenimiento no programado,30
+465,305,2025-01-26,Tarde,M1,Falla mecánica,43
+466,306,2025-01-26,Tarde,M2,Falta de material,148
+467,306,2025-01-26,Tarde,M2,Falla mecánica,14
+468,307,2025-01-26,Tarde,M3,Falla mecánica,78
+469,307,2025-01-26,Tarde,M3,Mantenimiento no programado,103
+470,307,2025-01-26,Tarde,M3,Falla mecánica,45
+471,310,2025-01-26,Noche,M2,Cambio de herramienta,27
+472,311,2025-01-26,Noche,M3,Cambio de herramienta,18
+473,311,2025-01-26,Noche,M3,Falla mecánica,45
+474,311,2025-01-26,Noche,M3,Falta de operador,23
+475,313,2025-01-27,Mañana,M1,Falla mecánica,24
+476,314,2025-01-27,Mañana,M2,Falla mecánica,36
+477,315,2025-01-27,Mañana,M3,Falta de material,9
+478,315,2025-01-27,Mañana,M3,Falla mecánica,70
+479,315,2025-01-27,Mañana,M3,Cambio de herramienta,32
+480,316,2025-01-27,Mañana,M4,Cambio de herramienta,9
+481,316,2025-01-27,Mañana,M4,Falta de material,36
+482,318,2025-01-27,Tarde,M2,Falla mecánica,46
+483,318,2025-01-27,Tarde,M2,Falta de material,12
+484,319,2025-01-27,Tarde,M3,Falta de material,13
+485,320,2025-01-27,Tarde,M4,Cambio de herramienta,5
+486,320,2025-01-27,Tarde,M4,Cambio de herramienta,66
+487,323,2025-01-27,Noche,M3,Mantenimiento no programado,22
+488,323,2025-01-27,Noche,M3,Falta de operador,23
+489,324,2025-01-27,Noche,M4,Cambio de herramienta,8
+490,324,2025-01-27,Noche,M4,Cambio de herramienta,5
+491,325,2025-01-28,Mañana,M1,Falla mecánica,9
+492,325,2025-01-28,Mañana,M1,Falla mecánica,18
+493,325,2025-01-28,Mañana,M1,Falla mecánica,152
+494,326,2025-01-28,Mañana,M2,Cambio de herramienta,19
+495,327,2025-01-28,Mañana,M3,Falla mecánica,22
+496,327,2025-01-28,Mañana,M3,Falla mecánica,29
+497,327,2025-01-28,Mañana,M3,Cambio de herramienta,5
+498,327,2025-01-28,Mañana,M3,Mantenimiento no programado,144
+499,328,2025-01-28,Mañana,M4,Ajuste de calidad,5
+500,329,2025-01-28,Tarde,M1,Cambio de herramienta,79
+501,329,2025-01-28,Tarde,M1,Cambio de herramienta,39
+502,330,2025-01-28,Tarde,M2,Ajuste de calidad,7
+503,331,2025-01-28,Tarde,M3,Ajuste de calidad,21
+504,331,2025-01-28,Tarde,M3,Cambio de herramienta,62
+505,331,2025-01-28,Tarde,M3,Falla mecánica,5
+506,332,2025-01-28,Tarde,M4,Falta de operador,14
+507,332,2025-01-28,Tarde,M4,Cambio de herramienta,19
+508,333,2025-01-28,Noche,M1,Falla mecánica,16
+509,333,2025-01-28,Noche,M1,Cambio de herramienta,32
+510,333,2025-01-28,Noche,M1,Falla mecánica,10
+511,334,2025-01-28,Noche,M2,Falla mecánica,60
+512,334,2025-01-28,Noche,M2,Ajuste de calidad,20
+513,334,2025-01-28,Noche,M2,Falla mecánica,63
+514,335,2025-01-28,Noche,M3,Cambio de herramienta,5
+515,335,2025-01-28,Noche,M3,Cambio de herramienta,10
+516,335,2025-01-28,Noche,M3,Falla mecánica,19
+517,336,2025-01-28,Noche,M4,Mantenimiento no programado,44
+518,337,2025-01-29,Mañana,M1,Falla mecánica,23
+519,337,2025-01-29,Mañana,M1,Falla mecánica,11
+520,337,2025-01-29,Mañana,M1,Falla mecánica,73
+521,338,2025-01-29,Mañana,M2,Falla mecánica,46
+522,338,2025-01-29,Mañana,M2,Mantenimiento no programado,55
+523,340,2025-01-29,Mañana,M4,Falla mecánica,51
+524,340,2025-01-29,Mañana,M4,Falla mecánica,56
+525,341,2025-01-29,Tarde,M1,Ajuste de calidad,5
+526,341,2025-01-29,Tarde,M1,Cambio de herramienta,6
+527,344,2025-01-29,Tarde,M4,Falla mecánica,82
+528,345,2025-01-29,Noche,M1,Cambio de herramienta,6
+529,345,2025-01-29,Noche,M1,Ajuste de calidad,5
+530,346,2025-01-29,Noche,M2,Mantenimiento no programado,5
+531,346,2025-01-29,Noche,M2,Falta de material,20
+532,347,2025-01-29,Noche,M3,Falla mecánica,56
+533,348,2025-01-29,Noche,M4,Falla mecánica,68
+534,348,2025-01-29,Noche,M4,Falta de material,5
+535,348,2025-01-29,Noche,M4,Cambio de herramienta,62
+536,349,2025-01-30,Mañana,M1,Cambio de herramienta,9
+537,350,2025-01-30,Mañana,M2,Falta de material,19
+538,350,2025-01-30,Mañana,M2,Falta de operador,6
+539,350,2025-01-30,Mañana,M2,Falta de material,28
+540,351,2025-01-30,Mañana,M3,Falta de material,15
+541,351,2025-01-30,Mañana,M3,Falta de material,6
+542,352,2025-01-30,Mañana,M4,Falla mecánica,32
+543,355,2025-01-30,Tarde,M3,Cambio de herramienta,18
+544,356,2025-01-30,Tarde,M4,Ajuste de calidad,22
+545,356,2025-01-30,Tarde,M4,Cambio de herramienta,74
+546,356,2025-01-30,Tarde,M4,Falla mecánica,5
+547,358,2025-01-30,Noche,M2,Falla mecánica,20
+548,358,2025-01-30,Noche,M2,Falla mecánica,16
+549,359,2025-01-30,Noche,M3,Falta de operador,38
+550,360,2025-01-30,Noche,M4,Falla mecánica,11
+551,361,2025-01-31,Mañana,M1,Mantenimiento no programado,171
+552,361,2025-01-31,Mañana,M1,Ajuste de calidad,71
+553,364,2025-01-31,Mañana,M4,Ajuste de calidad,15
+554,364,2025-01-31,Mañana,M4,Cambio de herramienta,22
+555,365,2025-01-31,Tarde,M1,Falta de operador,30
+556,365,2025-01-31,Tarde,M1,Falla mecánica,7
+557,366,2025-01-31,Tarde,M2,Mantenimiento no programado,45
+558,367,2025-01-31,Tarde,M3,Falla mecánica,74
+559,368,2025-01-31,Tarde,M4,Falla mecánica,26
+560,369,2025-01-31,Noche,M1,Mantenimiento no programado,13
+561,369,2025-01-31,Noche,M1,Mantenimiento no programado,315
+562,369,2025-01-31,Noche,M1,Falta de material,119
+563,369,2025-01-31,Noche,M1,Cambio de herramienta,6
+564,372,2025-01-31,Noche,M4,Cambio de herramienta,25
+565,372,2025-01-31,Noche,M4,Falla mecánica,46
+566,372,2025-01-31,Noche,M4,Falta de material,5
+567,372,2025-01-31,Noche,M4,Cambio de herramienta,29
+568,372,2025-01-31,Noche,M4,Cambio de herramienta,5
+569,373,2025-02-01,Mañana,M1,Falta de material,7
+570,374,2025-02-01,Mañana,M2,Cambio de herramienta,5
+571,376,2025-02-01,Mañana,M4,Ajuste de calidad,6
+572,376,2025-02-01,Mañana,M4,Cambio de herramienta,28
+573,377,2025-02-01,Tarde,M1,Ajuste de calidad,5
+574,378,2025-02-01,Tarde,M2,Falla mecánica,112
+575,381,2025-02-01,Noche,M1,Cambio de herramienta,28
+576,381,2025-02-01,Noche,M1,Falla mecánica,19
+577,381,2025-02-01,Noche,M1,Falta de operador,73
+578,382,2025-02-01,Noche,M2,Falla mecánica,40
+579,382,2025-02-01,Noche,M2,Falla mecánica,18
+580,384,2025-02-01,Noche,M4,Ajuste de calidad,27
+581,385,2025-02-02,Mañana,M1,Falta de operador,19
+582,385,2025-02-02,Mañana,M1,Falla mecánica,24
+583,386,2025-02-02,Mañana,M2,Cambio de herramienta,14
+584,387,2025-02-02,Mañana,M3,Falla mecánica,11
+585,388,2025-02-02,Mañana,M4,Falta de material,40
+586,389,2025-02-02,Tarde,M1,Falta de material,50
+587,390,2025-02-02,Tarde,M2,Cambio de herramienta,21
+588,390,2025-02-02,Tarde,M2,Falla mecánica,35
+589,390,2025-02-02,Tarde,M2,Falta de material,5
+590,390,2025-02-02,Tarde,M2,Ajuste de calidad,13
+591,391,2025-02-02,Tarde,M3,Falla mecánica,56
+592,392,2025-02-02,Tarde,M4,Mantenimiento no programado,105
+593,392,2025-02-02,Tarde,M4,Falta de material,37
+594,393,2025-02-02,Noche,M1,Ajuste de calidad,5
+595,393,2025-02-02,Noche,M1,Falla mecánica,18
+596,393,2025-02-02,Noche,M1,Mantenimiento no programado,116
+597,394,2025-02-02,Noche,M2,Falla mecánica,69
+598,394,2025-02-02,Noche,M2,Falta de material,14
+599,394,2025-02-02,Noche,M2,Falla mecánica,82
+600,395,2025-02-02,Noche,M3,Falta de material,50
+601,395,2025-02-02,Noche,M3,Cambio de herramienta,68
+602,396,2025-02-02,Noche,M4,Ajuste de calidad,12
+603,396,2025-02-02,Noche,M4,Cambio de herramienta,5
+604,397,2025-02-03,Mañana,M1,Falta de operador,27
+605,398,2025-02-03,Mañana,M2,Falta de material,5
+606,398,2025-02-03,Mañana,M2,Cambio de herramienta,6
+607,398,2025-02-03,Mañana,M2,Falla mecánica,19
+608,398,2025-02-03,Mañana,M2,Falta de material,12
+609,400,2025-02-03,Mañana,M4,Falla mecánica,21
+610,400,2025-02-03,Mañana,M4,Mantenimiento no programado,61
+611,403,2025-02-03,Tarde,M3,Cambio de herramienta,5
+612,403,2025-02-03,Tarde,M3,Mantenimiento no programado,7
+613,404,2025-02-03,Tarde,M4,Cambio de herramienta,6
+614,404,2025-02-03,Tarde,M4,Falla mecánica,29
+615,405,2025-02-03,Noche,M1,Falla mecánica,136
+616,405,2025-02-03,Noche,M1,Falla mecánica,5
+617,405,2025-02-03,Noche,M1,Cambio de herramienta,19
+618,407,2025-02-03,Noche,M3,Falla mecánica,40
+619,407,2025-02-03,Noche,M3,Falta de operador,73
+620,407,2025-02-03,Noche,M3,Falla mecánica,7
+621,408,2025-02-03,Noche,M4,Cambio de herramienta,24
+622,410,2025-02-04,Mañana,M2,Ajuste de calidad,5
+623,410,2025-02-04,Mañana,M2,Falta de material,113
+624,411,2025-02-04,Mañana,M3,Falta de material,73
+625,412,2025-02-04,Mañana,M4,Cambio de herramienta,19
+626,412,2025-02-04,Mañana,M4,Falta de material,8
+627,415,2025-02-04,Tarde,M3,Falla mecánica,27
+628,416,2025-02-04,Tarde,M4,Mantenimiento no programado,109
+629,417,2025-02-04,Noche,M1,Falta de material,40
+630,417,2025-02-04,Noche,M1,Falta de material,22
+631,418,2025-02-04,Noche,M2,Cambio de herramienta,45
+632,418,2025-02-04,Noche,M2,Falta de material,46
+633,418,2025-02-04,Noche,M2,Cambio de herramienta,19
+634,419,2025-02-04,Noche,M3,Falta de material,82
+635,420,2025-02-04,Noche,M4,Falla mecánica,16
+636,421,2025-02-05,Mañana,M1,Ajuste de calidad,7
+637,421,2025-02-05,Mañana,M1,Falta de material,9
+638,423,2025-02-05,Mañana,M3,Falla mecánica,16
+639,423,2025-02-05,Mañana,M3,Falla mecánica,32
+640,423,2025-02-05,Mañana,M3,Cambio de herramienta,8
+641,424,2025-02-05,Mañana,M4,Mantenimiento no programado,23
+642,424,2025-02-05,Mañana,M4,Cambio de herramienta,14
+643,426,2025-02-05,Tarde,M2,Falta de operador,28
+644,427,2025-02-05,Tarde,M3,Falla mecánica,50
+645,427,2025-02-05,Tarde,M3,Falla mecánica,53
+646,429,2025-02-05,Noche,M1,Falla mecánica,5
+647,429,2025-02-05,Noche,M1,Falla mecánica,99
+648,431,2025-02-05,Noche,M3,Falla mecánica,22
+649,432,2025-02-05,Noche,M4,Cambio de herramienta,15
+650,432,2025-02-05,Noche,M4,Falta de material,36
+651,432,2025-02-05,Noche,M4,Falla mecánica,31
+652,433,2025-02-06,Mañana,M1,Falta de material,5
+653,433,2025-02-06,Mañana,M1,Falla mecánica,6
+654,434,2025-02-06,Mañana,M2,Cambio de herramienta,10
+655,434,2025-02-06,Mañana,M2,Falla mecánica,70
+656,435,2025-02-06,Mañana,M3,Falla mecánica,57
+657,435,2025-02-06,Mañana,M3,Cambio de herramienta,36
+658,435,2025-02-06,Mañana,M3,Ajuste de calidad,27
+659,436,2025-02-06,Mañana,M4,Falta de operador,53
+660,436,2025-02-06,Mañana,M4,Cambio de herramienta,5
+661,437,2025-02-06,Tarde,M1,Falla mecánica,94
+662,438,2025-02-06,Tarde,M2,Falta de material,5
+663,439,2025-02-06,Tarde,M3,Falla mecánica,19
+664,439,2025-02-06,Tarde,M3,Cambio de herramienta,5
+665,439,2025-02-06,Tarde,M3,Cambio de herramienta,12
+666,440,2025-02-06,Tarde,M4,Falla mecánica,48
+667,441,2025-02-06,Noche,M1,Ajuste de calidad,13
+668,441,2025-02-06,Noche,M1,Ajuste de calidad,20
+669,441,2025-02-06,Noche,M1,Ajuste de calidad,10
+670,442,2025-02-06,Noche,M2,Falla mecánica,99
+671,442,2025-02-06,Noche,M2,Falta de material,71
+672,443,2025-02-06,Noche,M3,Falla mecánica,28
+673,443,2025-02-06,Noche,M3,Falta de material,9
+674,443,2025-02-06,Noche,M3,Falla mecánica,16
+675,444,2025-02-06,Noche,M4,Falla mecánica,5
+676,444,2025-02-06,Noche,M4,Falta de material,14
+677,445,2025-02-07,Mañana,M1,Falta de material,9
+678,446,2025-02-07,Mañana,M2,Falla mecánica,53
+679,447,2025-02-07,Mañana,M3,Ajuste de calidad,22
+680,449,2025-02-07,Tarde,M1,Falla mecánica,5
+681,450,2025-02-07,Tarde,M2,Falta de material,11
+682,451,2025-02-07,Tarde,M3,Falla mecánica,38
+683,451,2025-02-07,Tarde,M3,Falla mecánica,5
+684,451,2025-02-07,Tarde,M3,Mantenimiento no programado,23
+685,451,2025-02-07,Tarde,M3,Falta de material,49
+686,452,2025-02-07,Tarde,M4,Cambio de herramienta,5
+687,453,2025-02-07,Noche,M1,Falta de material,7
+688,453,2025-02-07,Noche,M1,Falla mecánica,65
+689,455,2025-02-07,Noche,M3,Cambio de herramienta,93
+690,455,2025-02-07,Noche,M3,Ajuste de calidad,8
+691,455,2025-02-07,Noche,M3,Falta de material,14
+692,456,2025-02-07,Noche,M4,Falla mecánica,244
+693,456,2025-02-07,Noche,M4,Mantenimiento no programado,62
+694,456,2025-02-07,Noche,M4,Ajuste de calidad,18
+695,457,2025-02-08,Mañana,M1,Cambio de herramienta,56
+696,457,2025-02-08,Mañana,M1,Falla mecánica,31
+697,458,2025-02-08,Mañana,M2,Falla mecánica,45
+698,459,2025-02-08,Mañana,M3,Ajuste de calidad,5
+699,459,2025-02-08,Mañana,M3,Falla mecánica,67
+700,460,2025-02-08,Mañana,M4,Cambio de herramienta,5
+701,460,2025-02-08,Mañana,M4,Cambio de herramienta,6
+702,460,2025-02-08,Mañana,M4,Falta de operador,21
+703,460,2025-02-08,Mañana,M4,Cambio de herramienta,8
+704,461,2025-02-08,Tarde,M1,Falta de material,63
+705,464,2025-02-08,Tarde,M4,Falta de operador,24
+706,464,2025-02-08,Tarde,M4,Mantenimiento no programado,37
+707,465,2025-02-08,Noche,M1,Mantenimiento no programado,101
+708,468,2025-02-08,Noche,M4,Falla mecánica,7
+709,469,2025-02-09,Mañana,M1,Ajuste de calidad,5
+710,469,2025-02-09,Mañana,M1,Falla mecánica,11
+711,470,2025-02-09,Mañana,M2,Falla mecánica,74
+712,470,2025-02-09,Mañana,M2,Falla mecánica,18
+713,472,2025-02-09,Mañana,M4,Cambio de herramienta,14
+714,472,2025-02-09,Mañana,M4,Falla mecánica,44
+715,474,2025-02-09,Tarde,M2,Cambio de herramienta,12
+716,475,2025-02-09,Tarde,M3,Cambio de herramienta,36
+717,475,2025-02-09,Tarde,M3,Mantenimiento no programado,132
+718,475,2025-02-09,Tarde,M3,Cambio de herramienta,5
+719,476,2025-02-09,Tarde,M4,Cambio de herramienta,39
+720,476,2025-02-09,Tarde,M4,Cambio de herramienta,7
+721,479,2025-02-09,Noche,M3,Cambio de herramienta,9
+722,479,2025-02-09,Noche,M3,Falta de material,5
+723,480,2025-02-09,Noche,M4,Falla mecánica,78
+724,481,2025-02-10,Mañana,M1,Cambio de herramienta,31
+725,481,2025-02-10,Mañana,M1,Cambio de herramienta,5
+726,482,2025-02-10,Mañana,M2,Falta de material,7
+727,483,2025-02-10,Mañana,M3,Falla mecánica,92
+728,484,2025-02-10,Mañana,M4,Cambio de herramienta,8
+729,485,2025-02-10,Tarde,M1,Falla mecánica,10
+730,486,2025-02-10,Tarde,M2,Ajuste de calidad,5
+731,487,2025-02-10,Tarde,M3,Ajuste de calidad,5
+732,487,2025-02-10,Tarde,M3,Falla mecánica,10
+733,487,2025-02-10,Tarde,M3,Falla mecánica,32
+734,488,2025-02-10,Tarde,M4,Falla mecánica,36
+735,488,2025-02-10,Tarde,M4,Cambio de herramienta,36
+736,489,2025-02-10,Noche,M1,Falla mecánica,58
+737,490,2025-02-10,Noche,M2,Cambio de herramienta,32
+738,492,2025-02-10,Noche,M4,Falla mecánica,5
+739,492,2025-02-10,Noche,M4,Ajuste de calidad,11
+740,492,2025-02-10,Noche,M4,Ajuste de calidad,5
+741,493,2025-02-11,Mañana,M1,Falta de material,34
+742,493,2025-02-11,Mañana,M1,Falla mecánica,84
+743,493,2025-02-11,Mañana,M1,Mantenimiento no programado,129
+744,494,2025-02-11,Mañana,M2,Falta de material,36
+745,494,2025-02-11,Mañana,M2,Falta de material,138
+746,496,2025-02-11,Mañana,M4,Cambio de herramienta,52
+747,496,2025-02-11,Mañana,M4,Falla mecánica,5
+748,496,2025-02-11,Mañana,M4,Falla mecánica,40
+749,497,2025-02-11,Tarde,M1,Cambio de herramienta,21
+750,497,2025-02-11,Tarde,M1,Ajuste de calidad,21
+751,498,2025-02-11,Tarde,M2,Falla mecánica,10
+752,498,2025-02-11,Tarde,M2,Falta de material,15
+753,499,2025-02-11,Tarde,M3,Falla mecánica,9
+754,499,2025-02-11,Tarde,M3,Falla mecánica,18
+755,499,2025-02-11,Tarde,M3,Cambio de herramienta,35
+756,500,2025-02-11,Tarde,M4,Cambio de herramienta,7
+757,502,2025-02-11,Noche,M2,Mantenimiento no programado,103
+758,502,2025-02-11,Noche,M2,Cambio de herramienta,21
+759,502,2025-02-11,Noche,M2,Falta de operador,12
+760,503,2025-02-11,Noche,M3,Cambio de herramienta,12
+761,503,2025-02-11,Noche,M3,Falla mecánica,177
+762,504,2025-02-11,Noche,M4,Falta de material,22
+763,504,2025-02-11,Noche,M4,Falla mecánica,8
+764,505,2025-02-12,Mañana,M1,Mantenimiento no programado,33
+765,505,2025-02-12,Mañana,M1,Falla mecánica,5
+766,505,2025-02-12,Mañana,M1,Falla mecánica,52
+767,506,2025-02-12,Mañana,M2,Cambio de herramienta,8
+768,507,2025-02-12,Mañana,M3,Cambio de herramienta,32
+769,509,2025-02-12,Tarde,M1,Cambio de herramienta,33
+770,510,2025-02-12,Tarde,M2,Mantenimiento no programado,7
+771,511,2025-02-12,Tarde,M3,Cambio de herramienta,10
+772,512,2025-02-12,Tarde,M4,Cambio de herramienta,5
+773,512,2025-02-12,Tarde,M4,Falta de material,83
+774,512,2025-02-12,Tarde,M4,Falta de material,5
+775,513,2025-02-12,Noche,M1,Cambio de herramienta,5
+776,513,2025-02-12,Noche,M1,Falla mecánica,19
+777,513,2025-02-12,Noche,M1,Cambio de herramienta,22
+778,514,2025-02-12,Noche,M2,Falla mecánica,79
+779,516,2025-02-12,Noche,M4,Falta de material,95
+780,517,2025-02-13,Mañana,M1,Ajuste de calidad,11
+781,517,2025-02-13,Mañana,M1,Falta de material,16
+782,517,2025-02-13,Mañana,M1,Falta de material,52
+783,517,2025-02-13,Mañana,M1,Falla mecánica,80
+784,518,2025-02-13,Mañana,M2,Falta de operador,7
+785,519,2025-02-13,Mañana,M3,Cambio de herramienta,7
+786,521,2025-02-13,Tarde,M1,Falta de material,49
+787,521,2025-02-13,Tarde,M1,Mantenimiento no programado,30
+788,522,2025-02-13,Tarde,M2,Falta de material,32
+789,523,2025-02-13,Tarde,M3,Falta de material,7
+790,524,2025-02-13,Tarde,M4,Falla mecánica,24
+791,528,2025-02-13,Noche,M4,Falla mecánica,91
+792,528,2025-02-13,Noche,M4,Falta de operador,13
+793,529,2025-02-14,Mañana,M1,Cambio de herramienta,5
+794,529,2025-02-14,Mañana,M1,Ajuste de calidad,5
+795,530,2025-02-14,Mañana,M2,Falla mecánica,55
+796,530,2025-02-14,Mañana,M2,Falla mecánica,105
+797,532,2025-02-14,Mañana,M4,Falla mecánica,76
+798,533,2025-02-14,Tarde,M1,Falta de operador,5
+799,535,2025-02-14,Tarde,M3,Cambio de herramienta,5
+800,536,2025-02-14,Tarde,M4,Falla mecánica,14
+801,537,2025-02-14,Noche,M1,Falla mecánica,22
+802,538,2025-02-14,Noche,M2,Falta de operador,56
+803,539,2025-02-14,Noche,M3,Falta de material,52
+804,540,2025-02-14,Noche,M4,Falta de material,13
+805,542,2025-02-15,Mañana,M2,Cambio de herramienta,19
+806,542,2025-02-15,Mañana,M2,Cambio de herramienta,11
+807,542,2025-02-15,Mañana,M2,Falla mecánica,37
+808,542,2025-02-15,Mañana,M2,Falta de operador,5
+809,542,2025-02-15,Mañana,M2,Mantenimiento no programado,70
+810,542,2025-02-15,Mañana,M2,Ajuste de calidad,12
+811,543,2025-02-15,Mañana,M3,Falta de operador,120
+812,544,2025-02-15,Mañana,M4,Falta de operador,5
+813,545,2025-02-15,Tarde,M1,Falta de material,27
+814,545,2025-02-15,Tarde,M1,Falta de material,34
+815,546,2025-02-15,Tarde,M2,Falla mecánica,53
+816,547,2025-02-15,Tarde,M3,Falla mecánica,6
+817,549,2025-02-15,Noche,M1,Cambio de herramienta,5
+818,549,2025-02-15,Noche,M1,Falla mecánica,13
+819,550,2025-02-15,Noche,M2,Falla mecánica,49
+820,550,2025-02-15,Noche,M2,Mantenimiento no programado,5
+821,551,2025-02-15,Noche,M3,Falla mecánica,41
+822,551,2025-02-15,Noche,M3,Falla mecánica,112
+823,552,2025-02-15,Noche,M4,Cambio de herramienta,23
+824,553,2025-02-16,Mañana,M1,Falla mecánica,14
+825,553,2025-02-16,Mañana,M1,Falla mecánica,48
+826,553,2025-02-16,Mañana,M1,Falta de material,27
+827,554,2025-02-16,Mañana,M2,Cambio de herramienta,8
+828,555,2025-02-16,Mañana,M3,Cambio de herramienta,26
+829,555,2025-02-16,Mañana,M3,Ajuste de calidad,5
+830,555,2025-02-16,Mañana,M3,Falla mecánica,56
+831,557,2025-02-16,Tarde,M1,Cambio de herramienta,9
+832,557,2025-02-16,Tarde,M1,Falta de material,14
+833,557,2025-02-16,Tarde,M1,Falla mecánica,5
+834,559,2025-02-16,Tarde,M3,Falla mecánica,16
+835,559,2025-02-16,Tarde,M3,Cambio de herramienta,22
+836,559,2025-02-16,Tarde,M3,Falta de material,11
+837,559,2025-02-16,Tarde,M3,Falla mecánica,45
+838,560,2025-02-16,Tarde,M4,Falta de material,28
+839,560,2025-02-16,Tarde,M4,Falla mecánica,5
+840,560,2025-02-16,Tarde,M4,Falla mecánica,26
+841,560,2025-02-16,Tarde,M4,Falta de material,56
+842,561,2025-02-16,Noche,M1,Cambio de herramienta,17
+843,563,2025-02-16,Noche,M3,Falta de material,51
+844,564,2025-02-16,Noche,M4,Falla mecánica,42
+845,565,2025-02-17,Mañana,M1,Falta de material,18
+846,565,2025-02-17,Mañana,M1,Falla mecánica,54
+847,566,2025-02-17,Mañana,M2,Falla mecánica,5
+848,567,2025-02-17,Mañana,M3,Ajuste de calidad,9
+849,567,2025-02-17,Mañana,M3,Cambio de herramienta,54
+850,568,2025-02-17,Mañana,M4,Falla mecánica,18
+851,568,2025-02-17,Mañana,M4,Cambio de herramienta,5
+852,569,2025-02-17,Tarde,M1,Cambio de herramienta,5
+853,570,2025-02-17,Tarde,M2,Falta de material,5
+854,570,2025-02-17,Tarde,M2,Ajuste de calidad,42
+855,572,2025-02-17,Tarde,M4,Falla mecánica,22
+856,572,2025-02-17,Tarde,M4,Falla mecánica,59
+857,573,2025-02-17,Noche,M1,Falla mecánica,73
+858,573,2025-02-17,Noche,M1,Cambio de herramienta,5
+859,573,2025-02-17,Noche,M1,Cambio de herramienta,47
+860,575,2025-02-17,Noche,M3,Mantenimiento no programado,84
+861,577,2025-02-18,Mañana,M1,Mantenimiento no programado,7
+862,577,2025-02-18,Mañana,M1,Falta de operador,88
+863,579,2025-02-18,Mañana,M3,Ajuste de calidad,45
+864,579,2025-02-18,Mañana,M3,Falla mecánica,182
+865,579,2025-02-18,Mañana,M3,Falla mecánica,75
+866,580,2025-02-18,Mañana,M4,Falla mecánica,41
+867,580,2025-02-18,Mañana,M4,Falta de operador,12
+868,582,2025-02-18,Tarde,M2,Ajuste de calidad,12
+869,583,2025-02-18,Tarde,M3,Mantenimiento no programado,46
+870,583,2025-02-18,Tarde,M3,Falta de material,7
+871,585,2025-02-18,Noche,M1,Falta de material,5
+872,585,2025-02-18,Noche,M1,Cambio de herramienta,5
+873,586,2025-02-18,Noche,M2,Cambio de herramienta,14
+874,587,2025-02-18,Noche,M3,Cambio de herramienta,5
+875,588,2025-02-18,Noche,M4,Falla mecánica,5
+876,588,2025-02-18,Noche,M4,Falla mecánica,35
+877,588,2025-02-18,Noche,M4,Falta de material,5
+878,588,2025-02-18,Noche,M4,Mantenimiento no programado,110
+879,590,2025-02-19,Mañana,M2,Cambio de herramienta,91
+880,593,2025-02-19,Tarde,M1,Cambio de herramienta,5
+881,593,2025-02-19,Tarde,M1,Falla mecánica,8
+882,594,2025-02-19,Tarde,M2,Cambio de herramienta,5
+883,594,2025-02-19,Tarde,M2,Falla mecánica,8
+884,595,2025-02-19,Tarde,M3,Falla mecánica,19
+885,595,2025-02-19,Tarde,M3,Ajuste de calidad,73
+886,595,2025-02-19,Tarde,M3,Falla mecánica,93
+887,596,2025-02-19,Tarde,M4,Mantenimiento no programado,11
+888,597,2025-02-19,Noche,M1,Ajuste de calidad,24
+889,597,2025-02-19,Noche,M1,Falta de operador,5
+890,598,2025-02-19,Noche,M2,Cambio de herramienta,113
+891,598,2025-02-19,Noche,M2,Falla mecánica,50
+892,600,2025-02-19,Noche,M4,Cambio de herramienta,22
+893,600,2025-02-19,Noche,M4,Cambio de herramienta,10
+894,601,2025-02-20,Mañana,M1,Cambio de herramienta,16
+895,602,2025-02-20,Mañana,M2,Cambio de herramienta,30
+896,603,2025-02-20,Mañana,M3,Cambio de herramienta,5
+897,603,2025-02-20,Mañana,M3,Falla mecánica,24
+898,603,2025-02-20,Mañana,M3,Cambio de herramienta,14
+899,603,2025-02-20,Mañana,M3,Falla mecánica,5
+900,604,2025-02-20,Mañana,M4,Cambio de herramienta,56
+901,606,2025-02-20,Tarde,M2,Falta de operador,5
+902,607,2025-02-20,Tarde,M3,Falta de material,73
+903,607,2025-02-20,Tarde,M3,Cambio de herramienta,5
+904,607,2025-02-20,Tarde,M3,Falla mecánica,9
+905,607,2025-02-20,Tarde,M3,Falla mecánica,16
+906,608,2025-02-20,Tarde,M4,Falla mecánica,8
+907,608,2025-02-20,Tarde,M4,Cambio de herramienta,5
+908,609,2025-02-20,Noche,M1,Falta de material,33
+909,611,2025-02-20,Noche,M3,Falta de material,80
+910,611,2025-02-20,Noche,M3,Mantenimiento no programado,76
+911,613,2025-02-21,Mañana,M1,Falla mecánica,88
+912,614,2025-02-21,Mañana,M2,Ajuste de calidad,5
+913,615,2025-02-21,Mañana,M3,Ajuste de calidad,21
+914,615,2025-02-21,Mañana,M3,Falta de material,101
+915,615,2025-02-21,Mañana,M3,Cambio de herramienta,5
+916,616,2025-02-21,Mañana,M4,Cambio de herramienta,7
+917,617,2025-02-21,Tarde,M1,Cambio de herramienta,6
+918,618,2025-02-21,Tarde,M2,Falla mecánica,140
+919,618,2025-02-21,Tarde,M2,Cambio de herramienta,8
+920,618,2025-02-21,Tarde,M2,Falla mecánica,29
+921,618,2025-02-21,Tarde,M2,Falla mecánica,12
+922,619,2025-02-21,Tarde,M3,Ajuste de calidad,5
+923,619,2025-02-21,Tarde,M3,Falta de material,87
+924,619,2025-02-21,Tarde,M3,Falta de material,12
+925,620,2025-02-21,Tarde,M4,Falla mecánica,72
+926,621,2025-02-21,Noche,M1,Ajuste de calidad,25
+927,621,2025-02-21,Noche,M1,Mantenimiento no programado,22
+928,622,2025-02-21,Noche,M2,Falta de operador,5
+929,622,2025-02-21,Noche,M2,Falla mecánica,56
+930,622,2025-02-21,Noche,M2,Cambio de herramienta,37
+931,623,2025-02-21,Noche,M3,Falta de material,21
+932,623,2025-02-21,Noche,M3,Falta de material,18
+933,624,2025-02-21,Noche,M4,Ajuste de calidad,16
+934,625,2025-02-22,Mañana,M1,Cambio de herramienta,43
+935,625,2025-02-22,Mañana,M1,Falla mecánica,146
+936,626,2025-02-22,Mañana,M2,Mantenimiento no programado,21
+937,628,2025-02-22,Mañana,M4,Falla mecánica,33
+938,628,2025-02-22,Mañana,M4,Cambio de herramienta,42
+939,631,2025-02-22,Tarde,M3,Ajuste de calidad,5
+940,632,2025-02-22,Tarde,M4,Falla mecánica,62
+941,633,2025-02-22,Noche,M1,Falla mecánica,10
+942,633,2025-02-22,Noche,M1,Cambio de herramienta,5
+943,633,2025-02-22,Noche,M1,Falla mecánica,110
+944,633,2025-02-22,Noche,M1,Ajuste de calidad,20
+945,635,2025-02-22,Noche,M3,Cambio de herramienta,8
+946,636,2025-02-22,Noche,M4,Falla mecánica,232
+947,638,2025-02-23,Mañana,M2,Falta de material,21
+948,638,2025-02-23,Mañana,M2,Falta de operador,50
+949,639,2025-02-23,Mañana,M3,Mantenimiento no programado,84
+950,639,2025-02-23,Mañana,M3,Falla mecánica,34
+951,642,2025-02-23,Tarde,M2,Falla mecánica,12
+952,642,2025-02-23,Tarde,M2,Falla mecánica,5
+953,642,2025-02-23,Tarde,M2,Falla mecánica,36
+954,643,2025-02-23,Tarde,M3,Falla mecánica,5
+955,643,2025-02-23,Tarde,M3,Mantenimiento no programado,5
+956,643,2025-02-23,Tarde,M3,Falla mecánica,15
+957,644,2025-02-23,Tarde,M4,Falta de material,5
+958,647,2025-02-23,Noche,M3,Falta de operador,5
+959,648,2025-02-23,Noche,M4,Falla mecánica,15
+960,648,2025-02-23,Noche,M4,Cambio de herramienta,9
+961,648,2025-02-23,Noche,M4,Cambio de herramienta,5
+962,648,2025-02-23,Noche,M4,Falta de material,5
+963,649,2025-02-24,Mañana,M1,Cambio de herramienta,5
+964,649,2025-02-24,Mañana,M1,Cambio de herramienta,10
+965,649,2025-02-24,Mañana,M1,Falla mecánica,14
+966,650,2025-02-24,Mañana,M2,Falla mecánica,22
+967,651,2025-02-24,Mañana,M3,Mantenimiento no programado,28
+968,652,2025-02-24,Mañana,M4,Falla mecánica,125
+969,653,2025-02-24,Tarde,M1,Falla mecánica,16
+970,653,2025-02-24,Tarde,M1,Falta de material,13
+971,654,2025-02-24,Tarde,M2,Falla mecánica,12
+972,654,2025-02-24,Tarde,M2,Falla mecánica,46
+973,655,2025-02-24,Tarde,M3,Cambio de herramienta,32
+974,655,2025-02-24,Tarde,M3,Falla mecánica,5
+975,656,2025-02-24,Tarde,M4,Falta de material,11
+976,657,2025-02-24,Noche,M1,Falla mecánica,7
+977,658,2025-02-24,Noche,M2,Cambio de herramienta,5
+978,660,2025-02-24,Noche,M4,Cambio de herramienta,5
+979,660,2025-02-24,Noche,M4,Falla mecánica,111
+980,660,2025-02-24,Noche,M4,Falla mecánica,20
+981,661,2025-02-25,Mañana,M1,Falla mecánica,28
+982,661,2025-02-25,Mañana,M1,Falla mecánica,61
+983,661,2025-02-25,Mañana,M1,Falta de operador,13
+984,661,2025-02-25,Mañana,M1,Falla mecánica,146
+985,662,2025-02-25,Mañana,M2,Ajuste de calidad,25
+986,662,2025-02-25,Mañana,M2,Falla mecánica,25
+987,663,2025-02-25,Mañana,M3,Falla mecánica,23
+988,663,2025-02-25,Mañana,M3,Falta de material,17
+989,663,2025-02-25,Mañana,M3,Falta de material,13
+990,663,2025-02-25,Mañana,M3,Falta de material,6
+991,663,2025-02-25,Mañana,M3,Falta de material,23
+992,663,2025-02-25,Mañana,M3,Falla mecánica,15
+993,665,2025-02-25,Tarde,M1,Falta de operador,18
+994,665,2025-02-25,Tarde,M1,Falta de material,8
+995,667,2025-02-25,Tarde,M3,Ajuste de calidad,11
+996,667,2025-02-25,Tarde,M3,Falla mecánica,58
+997,668,2025-02-25,Tarde,M4,Falta de material,5
+998,668,2025-02-25,Tarde,M4,Falta de operador,5
+999,668,2025-02-25,Tarde,M4,Falla mecánica,76
+1000,669,2025-02-25,Noche,M1,Falta de operador,5
+1001,669,2025-02-25,Noche,M1,Ajuste de calidad,28
+1002,671,2025-02-25,Noche,M3,Falla mecánica,5
+1003,672,2025-02-25,Noche,M4,Mantenimiento no programado,44
+1004,672,2025-02-25,Noche,M4,Falla mecánica,5
+1005,672,2025-02-25,Noche,M4,Falta de material,5
+1006,672,2025-02-25,Noche,M4,Falla mecánica,34
+1007,674,2025-02-26,Mañana,M2,Falta de material,29
+1008,674,2025-02-26,Mañana,M2,Falta de material,20
+1009,674,2025-02-26,Mañana,M2,Cambio de herramienta,8
+1010,674,2025-02-26,Mañana,M2,Cambio de herramienta,5
+1011,674,2025-02-26,Mañana,M2,Ajuste de calidad,5
+1012,675,2025-02-26,Mañana,M3,Cambio de herramienta,8
+1013,675,2025-02-26,Mañana,M3,Mantenimiento no programado,153
+1014,676,2025-02-26,Mañana,M4,Cambio de herramienta,8
+1015,677,2025-02-26,Tarde,M1,Falla mecánica,161
+1016,677,2025-02-26,Tarde,M1,Cambio de herramienta,19
+1017,678,2025-02-26,Tarde,M2,Falla mecánica,81
+1018,679,2025-02-26,Tarde,M3,Cambio de herramienta,5
+1019,679,2025-02-26,Tarde,M3,Falla mecánica,5
+1020,681,2025-02-26,Noche,M1,Falla mecánica,26
+1021,682,2025-02-26,Noche,M2,Falla mecánica,20
+1022,683,2025-02-26,Noche,M3,Falta de material,18
+1023,683,2025-02-26,Noche,M3,Cambio de herramienta,28
+1024,683,2025-02-26,Noche,M3,Falla mecánica,17
+1025,683,2025-02-26,Noche,M3,Falta de operador,5
+1026,683,2025-02-26,Noche,M3,Cambio de herramienta,48
+1027,684,2025-02-26,Noche,M4,Falta de operador,20
+1028,686,2025-02-27,Mañana,M2,Falta de material,80
+1029,687,2025-02-27,Mañana,M3,Falta de operador,26
+1030,687,2025-02-27,Mañana,M3,Falta de operador,24
+1031,689,2025-02-27,Tarde,M1,Falla mecánica,63
+1032,690,2025-02-27,Tarde,M2,Falla mecánica,28
+1033,692,2025-02-27,Tarde,M4,Falla mecánica,5
+1034,692,2025-02-27,Tarde,M4,Cambio de herramienta,33
+1035,693,2025-02-27,Noche,M1,Ajuste de calidad,5
+1036,693,2025-02-27,Noche,M1,Mantenimiento no programado,83
+1037,694,2025-02-27,Noche,M2,Falla mecánica,54
+1038,694,2025-02-27,Noche,M2,Ajuste de calidad,39
+1039,695,2025-02-27,Noche,M3,Cambio de herramienta,6
+1040,696,2025-02-27,Noche,M4,Ajuste de calidad,8
+1041,696,2025-02-27,Noche,M4,Falta de operador,5
+1042,696,2025-02-27,Noche,M4,Mantenimiento no programado,14
+1043,697,2025-02-28,Mañana,M1,Falta de material,7
+1044,697,2025-02-28,Mañana,M1,Falla mecánica,16
+1045,698,2025-02-28,Mañana,M2,Falla mecánica,39
+1046,699,2025-02-28,Mañana,M3,Falta de material,15
+1047,699,2025-02-28,Mañana,M3,Cambio de herramienta,5
+1048,701,2025-02-28,Tarde,M1,Falta de operador,31
+1049,702,2025-02-28,Tarde,M2,Cambio de herramienta,68
+1050,702,2025-02-28,Tarde,M2,Falta de material,5
+1051,704,2025-02-28,Tarde,M4,Ajuste de calidad,12
+1052,705,2025-02-28,Noche,M1,Cambio de herramienta,39
+1053,707,2025-02-28,Noche,M3,Falla mecánica,18
+1054,708,2025-02-28,Noche,M4,Falta de operador,15
+1055,708,2025-02-28,Noche,M4,Falta de material,123
+1056,709,2025-03-01,Mañana,M1,Falla mecánica,5
+1057,711,2025-03-01,Mañana,M3,Ajuste de calidad,5
+1058,712,2025-03-01,Mañana,M4,Cambio de herramienta,43
+1059,712,2025-03-01,Mañana,M4,Falta de operador,10
+1060,713,2025-03-01,Tarde,M1,Falla mecánica,143
+1061,713,2025-03-01,Tarde,M1,Falla mecánica,39
+1062,714,2025-03-01,Tarde,M2,Cambio de herramienta,5
+1063,714,2025-03-01,Tarde,M2,Falla mecánica,26
+1064,715,2025-03-01,Tarde,M3,Falla mecánica,152
+1065,716,2025-03-01,Tarde,M4,Ajuste de calidad,44
+1066,716,2025-03-01,Tarde,M4,Falla mecánica,7
+1067,718,2025-03-01,Noche,M2,Cambio de herramienta,15
+1068,718,2025-03-01,Noche,M2,Cambio de herramienta,5
+1069,718,2025-03-01,Noche,M2,Mantenimiento no programado,115
+1070,719,2025-03-01,Noche,M3,Falta de material,21
+1071,720,2025-03-01,Noche,M4,Cambio de herramienta,8
+1072,720,2025-03-01,Noche,M4,Cambio de herramienta,30
+1073,721,2025-03-02,Mañana,M1,Ajuste de calidad,5
+1074,722,2025-03-02,Mañana,M2,Falta de material,21
+1075,723,2025-03-02,Mañana,M3,Cambio de herramienta,40
+1076,723,2025-03-02,Mañana,M3,Cambio de herramienta,25
+1077,724,2025-03-02,Mañana,M4,Falta de operador,6
+1078,725,2025-03-02,Tarde,M1,Falta de operador,84
+1079,726,2025-03-02,Tarde,M2,Falta de material,5
+1080,726,2025-03-02,Tarde,M2,Falla mecánica,21
+1081,727,2025-03-02,Tarde,M3,Falla mecánica,16
+1082,728,2025-03-02,Tarde,M4,Falta de material,37
+1083,728,2025-03-02,Tarde,M4,Falta de material,5
+1084,728,2025-03-02,Tarde,M4,Falta de material,5
+1085,730,2025-03-02,Noche,M2,Falla mecánica,137
+1086,730,2025-03-02,Noche,M2,Falla mecánica,9
+1087,731,2025-03-02,Noche,M3,Falla mecánica,12
+1088,732,2025-03-02,Noche,M4,Cambio de herramienta,9
+1089,733,2025-03-03,Mañana,M1,Falla mecánica,17
+1090,734,2025-03-03,Mañana,M2,Falta de material,11
+1091,734,2025-03-03,Mañana,M2,Falla mecánica,54
+1092,734,2025-03-03,Mañana,M2,Falla mecánica,23
+1093,735,2025-03-03,Mañana,M3,Falla mecánica,26
+1094,735,2025-03-03,Mañana,M3,Falta de material,35
+1095,736,2025-03-03,Mañana,M4,Ajuste de calidad,12
+1096,736,2025-03-03,Mañana,M4,Falla mecánica,28
+1097,736,2025-03-03,Mañana,M4,Falla mecánica,38
+1098,737,2025-03-03,Tarde,M1,Falla mecánica,30
+1099,737,2025-03-03,Tarde,M1,Falla mecánica,9
+1100,738,2025-03-03,Tarde,M2,Falla mecánica,118
+1101,740,2025-03-03,Tarde,M4,Falta de material,53
+1102,741,2025-03-03,Noche,M1,Falta de material,5
+1103,741,2025-03-03,Noche,M1,Cambio de herramienta,6
+1104,742,2025-03-03,Noche,M2,Falla mecánica,7
+1105,742,2025-03-03,Noche,M2,Falta de operador,18
+1106,743,2025-03-03,Noche,M3,Falla mecánica,5
+1107,743,2025-03-03,Noche,M3,Falla mecánica,6
+1108,743,2025-03-03,Noche,M3,Falla mecánica,21
+1109,743,2025-03-03,Noche,M3,Mantenimiento no programado,56
+1110,745,2025-03-04,Mañana,M1,Mantenimiento no programado,18
+1111,747,2025-03-04,Mañana,M3,Ajuste de calidad,15
+1112,747,2025-03-04,Mañana,M3,Falta de material,5
+1113,747,2025-03-04,Mañana,M3,Falta de material,121
+1114,749,2025-03-04,Tarde,M1,Cambio de herramienta,12
+1115,749,2025-03-04,Tarde,M1,Falta de operador,25
+1116,751,2025-03-04,Tarde,M3,Falta de material,32
+1117,752,2025-03-04,Tarde,M4,Falta de material,5
+1118,753,2025-03-04,Noche,M1,Falla mecánica,49
+1119,753,2025-03-04,Noche,M1,Ajuste de calidad,5
+1120,754,2025-03-04,Noche,M2,Cambio de herramienta,5
+1121,755,2025-03-04,Noche,M3,Ajuste de calidad,8
+1122,755,2025-03-04,Noche,M3,Falla mecánica,35
+1123,756,2025-03-04,Noche,M4,Falla mecánica,9
+1124,757,2025-03-05,Mañana,M1,Falla mecánica,38
+1125,758,2025-03-05,Mañana,M2,Falla mecánica,5
+1126,759,2025-03-05,Mañana,M3,Cambio de herramienta,5
+1127,759,2025-03-05,Mañana,M3,Falla mecánica,50
+1128,759,2025-03-05,Mañana,M3,Falta de operador,82
+1129,761,2025-03-05,Tarde,M1,Falta de material,57
+1130,761,2025-03-05,Tarde,M1,Falla mecánica,46
+1131,761,2025-03-05,Tarde,M1,Falla mecánica,142
+1132,761,2025-03-05,Tarde,M1,Falla mecánica,39
+1133,763,2025-03-05,Tarde,M3,Falla mecánica,64
+1134,766,2025-03-05,Noche,M2,Cambio de herramienta,82
+1135,766,2025-03-05,Noche,M2,Falla mecánica,15
+1136,767,2025-03-05,Noche,M3,Falta de operador,5
+1137,767,2025-03-05,Noche,M3,Falta de material,71
+1138,768,2025-03-05,Noche,M4,Falla mecánica,16
+1139,768,2025-03-05,Noche,M4,Falla mecánica,6
+1140,768,2025-03-05,Noche,M4,Falla mecánica,24
+1141,771,2025-03-06,Mañana,M3,Cambio de herramienta,22
+1142,771,2025-03-06,Mañana,M3,Falta de material,29
+1143,772,2025-03-06,Mañana,M4,Mantenimiento no programado,10
+1144,772,2025-03-06,Mañana,M4,Falta de material,33
+1145,772,2025-03-06,Mañana,M4,Mantenimiento no programado,254
+1146,773,2025-03-06,Tarde,M1,Ajuste de calidad,36
+1147,774,2025-03-06,Tarde,M2,Falla mecánica,64
+1148,776,2025-03-06,Tarde,M4,Falla mecánica,109
+1149,777,2025-03-06,Noche,M1,Falla mecánica,21
+1150,778,2025-03-06,Noche,M2,Falta de material,15
+1151,780,2025-03-06,Noche,M4,Falla mecánica,48
+1152,780,2025-03-06,Noche,M4,Mantenimiento no programado,148
+1153,783,2025-03-07,Mañana,M3,Cambio de herramienta,5
+1154,784,2025-03-07,Mañana,M4,Mantenimiento no programado,103
+1155,784,2025-03-07,Mañana,M4,Falla mecánica,5
+1156,785,2025-03-07,Tarde,M1,Falta de material,39
+1157,785,2025-03-07,Tarde,M1,Falla mecánica,20
+1158,785,2025-03-07,Tarde,M1,Falta de material,5
+1159,785,2025-03-07,Tarde,M1,Cambio de herramienta,15
+1160,786,2025-03-07,Tarde,M2,Falta de operador,13
+1161,786,2025-03-07,Tarde,M2,Falta de material,29
+1162,786,2025-03-07,Tarde,M2,Cambio de herramienta,5
+1163,787,2025-03-07,Tarde,M3,Falla mecánica,59
+1164,789,2025-03-07,Noche,M1,Falla mecánica,5
+1165,789,2025-03-07,Noche,M1,Cambio de herramienta,12
+1166,789,2025-03-07,Noche,M1,Cambio de herramienta,5
+1167,790,2025-03-07,Noche,M2,Ajuste de calidad,13
+1168,790,2025-03-07,Noche,M2,Falla mecánica,12
+1169,791,2025-03-07,Noche,M3,Falta de operador,27
+1170,793,2025-03-08,Mañana,M1,Falta de operador,40
+1171,793,2025-03-08,Mañana,M1,Cambio de herramienta,25
+1172,793,2025-03-08,Mañana,M1,Cambio de herramienta,13
+1173,794,2025-03-08,Mañana,M2,Mantenimiento no programado,45
+1174,794,2025-03-08,Mañana,M2,Falta de material,23
+1175,796,2025-03-08,Mañana,M4,Falla mecánica,23
+1176,797,2025-03-08,Tarde,M1,Falla mecánica,187
+1177,798,2025-03-08,Tarde,M2,Mantenimiento no programado,11
+1178,799,2025-03-08,Tarde,M3,Falla mecánica,18
+1179,799,2025-03-08,Tarde,M3,Falla mecánica,199
+1180,799,2025-03-08,Tarde,M3,Cambio de herramienta,26
+1181,799,2025-03-08,Tarde,M3,Falta de material,7
+1182,800,2025-03-08,Tarde,M4,Falla mecánica,95
+1183,801,2025-03-08,Noche,M1,Falta de material,52
+1184,802,2025-03-08,Noche,M2,Falta de material,11
+1185,802,2025-03-08,Noche,M2,Cambio de herramienta,29
+1186,803,2025-03-08,Noche,M3,Falta de operador,59
+1187,803,2025-03-08,Noche,M3,Falla mecánica,124
+1188,803,2025-03-08,Noche,M3,Ajuste de calidad,23
+1189,804,2025-03-08,Noche,M4,Falla mecánica,34
+1190,804,2025-03-08,Noche,M4,Cambio de herramienta,20
+1191,804,2025-03-08,Noche,M4,Falla mecánica,145
+1192,806,2025-03-09,Mañana,M2,Cambio de herramienta,12
+1193,806,2025-03-09,Mañana,M2,Cambio de herramienta,5
+1194,807,2025-03-09,Mañana,M3,Falta de material,5
+1195,807,2025-03-09,Mañana,M3,Falta de operador,23
+1196,808,2025-03-09,Mañana,M4,Falta de material,8
+1197,809,2025-03-09,Tarde,M1,Falla mecánica,35
+1198,809,2025-03-09,Tarde,M1,Cambio de herramienta,5
+1199,809,2025-03-09,Tarde,M1,Cambio de herramienta,38
+1200,812,2025-03-09,Tarde,M4,Ajuste de calidad,5
+1201,813,2025-03-09,Noche,M1,Falta de operador,22
+1202,813,2025-03-09,Noche,M1,Falla mecánica,25
+1203,814,2025-03-09,Noche,M2,Cambio de herramienta,33
+1204,815,2025-03-09,Noche,M3,Ajuste de calidad,10
+1205,815,2025-03-09,Noche,M3,Cambio de herramienta,13
+1206,816,2025-03-09,Noche,M4,Cambio de herramienta,17
+1207,817,2025-03-10,Mañana,M1,Falla mecánica,12
+1208,820,2025-03-10,Mañana,M4,Cambio de herramienta,67
+1209,821,2025-03-10,Tarde,M1,Ajuste de calidad,5
+1210,822,2025-03-10,Tarde,M2,Cambio de herramienta,5
+1211,822,2025-03-10,Tarde,M2,Falta de material,5
+1212,823,2025-03-10,Tarde,M3,Falla mecánica,106
+1213,823,2025-03-10,Tarde,M3,Falla mecánica,8
+1214,825,2025-03-10,Noche,M1,Falla mecánica,54
+1215,825,2025-03-10,Noche,M1,Falta de material,135
+1216,827,2025-03-10,Noche,M3,Falla mecánica,15
+1217,827,2025-03-10,Noche,M3,Cambio de herramienta,28
+1218,827,2025-03-10,Noche,M3,Cambio de herramienta,5
+1219,827,2025-03-10,Noche,M3,Falla mecánica,5
+1220,828,2025-03-10,Noche,M4,Falla mecánica,93
+1221,828,2025-03-10,Noche,M4,Ajuste de calidad,5
+1222,828,2025-03-10,Noche,M4,Cambio de herramienta,13
+1223,829,2025-03-11,Mañana,M1,Falla mecánica,9
+1224,829,2025-03-11,Mañana,M1,Falla mecánica,61
+1225,830,2025-03-11,Mañana,M2,Falla mecánica,12
+1226,831,2025-03-11,Mañana,M3,Mantenimiento no programado,5
+1227,832,2025-03-11,Mañana,M4,Ajuste de calidad,10
+1228,834,2025-03-11,Tarde,M2,Falla mecánica,157
+1229,835,2025-03-11,Tarde,M3,Falla mecánica,53
+1230,835,2025-03-11,Tarde,M3,Falta de material,45
+1231,838,2025-03-11,Noche,M2,Mantenimiento no programado,17
+1232,838,2025-03-11,Noche,M2,Falla mecánica,23
+1233,838,2025-03-11,Noche,M2,Falla mecánica,30
+1234,839,2025-03-11,Noche,M3,Falla mecánica,20
+1235,839,2025-03-11,Noche,M3,Cambio de herramienta,5
+1236,841,2025-03-12,Mañana,M1,Mantenimiento no programado,91
+1237,842,2025-03-12,Mañana,M2,Cambio de herramienta,37
+1238,842,2025-03-12,Mañana,M2,Falta de material,31
+1239,843,2025-03-12,Mañana,M3,Cambio de herramienta,26
+1240,846,2025-03-12,Tarde,M2,Cambio de herramienta,15
+1241,847,2025-03-12,Tarde,M3,Falla mecánica,85
+1242,848,2025-03-12,Tarde,M4,Falla mecánica,45
+1243,848,2025-03-12,Tarde,M4,Cambio de herramienta,52
+1244,848,2025-03-12,Tarde,M4,Falla mecánica,35
+1245,849,2025-03-12,Noche,M1,Ajuste de calidad,5
+1246,850,2025-03-12,Noche,M2,Cambio de herramienta,40
+1247,850,2025-03-12,Noche,M2,Cambio de herramienta,67
+1248,851,2025-03-12,Noche,M3,Falta de operador,53
+1249,851,2025-03-12,Noche,M3,Cambio de herramienta,5
+1250,852,2025-03-12,Noche,M4,Ajuste de calidad,7
+1251,852,2025-03-12,Noche,M4,Cambio de herramienta,9
+1252,853,2025-03-13,Mañana,M1,Falta de material,9
+1253,853,2025-03-13,Mañana,M1,Falla mecánica,121
+1254,854,2025-03-13,Mañana,M2,Falta de material,21
+1255,856,2025-03-13,Mañana,M4,Falla mecánica,5
+1256,857,2025-03-13,Tarde,M1,Falta de material,5
+1257,858,2025-03-13,Tarde,M2,Falta de material,31
+1258,860,2025-03-13,Tarde,M4,Cambio de herramienta,5
+1259,860,2025-03-13,Tarde,M4,Cambio de herramienta,50
+1260,861,2025-03-13,Noche,M1,Cambio de herramienta,5
+1261,861,2025-03-13,Noche,M1,Cambio de herramienta,12
+1262,861,2025-03-13,Noche,M1,Cambio de herramienta,8
+1263,862,2025-03-13,Noche,M2,Mantenimiento no programado,145
+1264,862,2025-03-13,Noche,M2,Falla mecánica,5
+1265,863,2025-03-13,Noche,M3,Falla mecánica,27
+1266,863,2025-03-13,Noche,M3,Falta de material,24
+1267,863,2025-03-13,Noche,M3,Falta de material,9
+1268,863,2025-03-13,Noche,M3,Cambio de herramienta,5
+1269,864,2025-03-13,Noche,M4,Cambio de herramienta,7
+1270,864,2025-03-13,Noche,M4,Cambio de herramienta,38
+1271,866,2025-03-14,Mañana,M2,Cambio de herramienta,56
+1272,866,2025-03-14,Mañana,M2,Falla mecánica,19
+1273,868,2025-03-14,Mañana,M4,Falla mecánica,13
+1274,868,2025-03-14,Mañana,M4,Cambio de herramienta,5
+1275,868,2025-03-14,Mañana,M4,Mantenimiento no programado,87
+1276,868,2025-03-14,Mañana,M4,Falla mecánica,40
+1277,869,2025-03-14,Tarde,M1,Cambio de herramienta,5
+1278,869,2025-03-14,Tarde,M1,Falla mecánica,33
+1279,869,2025-03-14,Tarde,M1,Falla mecánica,5
+1280,870,2025-03-14,Tarde,M2,Falla mecánica,36
+1281,870,2025-03-14,Tarde,M2,Ajuste de calidad,86
+1282,870,2025-03-14,Tarde,M2,Cambio de herramienta,7
+1283,871,2025-03-14,Tarde,M3,Falla mecánica,13
+1284,871,2025-03-14,Tarde,M3,Falta de material,89
+1285,873,2025-03-14,Noche,M1,Falta de operador,18
+1286,873,2025-03-14,Noche,M1,Falla mecánica,33
+1287,873,2025-03-14,Noche,M1,Falla mecánica,40
+1288,873,2025-03-14,Noche,M1,Cambio de herramienta,19
+1289,873,2025-03-14,Noche,M1,Falla mecánica,9
+1290,873,2025-03-14,Noche,M1,Cambio de herramienta,60
+1291,874,2025-03-14,Noche,M2,Cambio de herramienta,5
+1292,874,2025-03-14,Noche,M2,Mantenimiento no programado,8
+1293,878,2025-03-15,Mañana,M2,Ajuste de calidad,28
+1294,878,2025-03-15,Mañana,M2,Ajuste de calidad,10
+1295,878,2025-03-15,Mañana,M2,Falla mecánica,83
+1296,880,2025-03-15,Mañana,M4,Falla mecánica,294
+1297,881,2025-03-15,Tarde,M1,Falta de operador,65
+1298,881,2025-03-15,Tarde,M1,Falla mecánica,5
+1299,882,2025-03-15,Tarde,M2,Ajuste de calidad,51
+1300,882,2025-03-15,Tarde,M2,Falla mecánica,30
+1301,882,2025-03-15,Tarde,M2,Falla mecánica,36
+1302,883,2025-03-15,Tarde,M3,Cambio de herramienta,17
+1303,884,2025-03-15,Tarde,M4,Ajuste de calidad,46
+1304,884,2025-03-15,Tarde,M4,Falla mecánica,17
+1305,886,2025-03-15,Noche,M2,Cambio de herramienta,16
+1306,887,2025-03-15,Noche,M3,Falta de material,75
+1307,888,2025-03-15,Noche,M4,Falta de material,15
+1308,888,2025-03-15,Noche,M4,Cambio de herramienta,5
+1309,888,2025-03-15,Noche,M4,Falla mecánica,70
+1310,888,2025-03-15,Noche,M4,Cambio de herramienta,7
+1311,889,2025-03-16,Mañana,M1,Falla mecánica,13
+1312,890,2025-03-16,Mañana,M2,Ajuste de calidad,11
+1313,890,2025-03-16,Mañana,M2,Falla mecánica,6
+1314,891,2025-03-16,Mañana,M3,Falla mecánica,5
+1315,891,2025-03-16,Mañana,M3,Falla mecánica,58
+1316,892,2025-03-16,Mañana,M4,Cambio de herramienta,13
+1317,892,2025-03-16,Mañana,M4,Cambio de herramienta,34
+1318,893,2025-03-16,Tarde,M1,Falla mecánica,49
+1319,893,2025-03-16,Tarde,M1,Cambio de herramienta,20
+1320,893,2025-03-16,Tarde,M1,Falla mecánica,106
+1321,894,2025-03-16,Tarde,M2,Falta de operador,7
+1322,894,2025-03-16,Tarde,M2,Cambio de herramienta,45
+1323,894,2025-03-16,Tarde,M2,Falta de operador,28
+1324,895,2025-03-16,Tarde,M3,Falla mecánica,24
+1325,895,2025-03-16,Tarde,M3,Falla mecánica,17
+1326,896,2025-03-16,Tarde,M4,Falta de material,67
+1327,896,2025-03-16,Tarde,M4,Ajuste de calidad,6
+1328,898,2025-03-16,Noche,M2,Falla mecánica,88
+1329,899,2025-03-16,Noche,M3,Falla mecánica,89
+1330,899,2025-03-16,Noche,M3,Falla mecánica,53
+1331,900,2025-03-16,Noche,M4,Falla mecánica,70
+1332,901,2025-03-17,Mañana,M1,Cambio de herramienta,33
+1333,901,2025-03-17,Mañana,M1,Falla mecánica,38
+1334,901,2025-03-17,Mañana,M1,Falta de material,14
+1335,902,2025-03-17,Mañana,M2,Falla mecánica,55
+1336,902,2025-03-17,Mañana,M2,Ajuste de calidad,29
+1337,902,2025-03-17,Mañana,M2,Cambio de herramienta,5
+1338,902,2025-03-17,Mañana,M2,Cambio de herramienta,5
+1339,902,2025-03-17,Mañana,M2,Falla mecánica,66
+1340,903,2025-03-17,Mañana,M3,Falla mecánica,5
+1341,903,2025-03-17,Mañana,M3,Mantenimiento no programado,98
+1342,904,2025-03-17,Mañana,M4,Cambio de herramienta,57
+1343,904,2025-03-17,Mañana,M4,Falla mecánica,12
+1344,906,2025-03-17,Tarde,M2,Mantenimiento no programado,31
+1345,906,2025-03-17,Tarde,M2,Falla mecánica,36
+1346,906,2025-03-17,Tarde,M2,Falla mecánica,5
+1347,907,2025-03-17,Tarde,M3,Falla mecánica,7
+1348,907,2025-03-17,Tarde,M3,Falla mecánica,15
+1349,907,2025-03-17,Tarde,M3,Ajuste de calidad,35
+1350,908,2025-03-17,Tarde,M4,Falta de operador,25
+1351,908,2025-03-17,Tarde,M4,Falla mecánica,25
+1352,909,2025-03-17,Noche,M1,Cambio de herramienta,13
+1353,909,2025-03-17,Noche,M1,Cambio de herramienta,7
+1354,910,2025-03-17,Noche,M2,Cambio de herramienta,7
+1355,910,2025-03-17,Noche,M2,Cambio de herramienta,6
+1356,910,2025-03-17,Noche,M2,Mantenimiento no programado,22
+1357,910,2025-03-17,Noche,M2,Falla mecánica,33
+1358,910,2025-03-17,Noche,M2,Falla mecánica,5
+1359,911,2025-03-17,Noche,M3,Falla mecánica,17
+1360,911,2025-03-17,Noche,M3,Ajuste de calidad,5
+1361,911,2025-03-17,Noche,M3,Falla mecánica,71
+1362,912,2025-03-17,Noche,M4,Falta de operador,30
+1363,913,2025-03-18,Mañana,M1,Ajuste de calidad,5
+1364,913,2025-03-18,Mañana,M1,Falla mecánica,50
+1365,915,2025-03-18,Mañana,M3,Cambio de herramienta,19
+1366,916,2025-03-18,Mañana,M4,Falla mecánica,5
+1367,917,2025-03-18,Tarde,M1,Cambio de herramienta,5
+1368,918,2025-03-18,Tarde,M2,Falla mecánica,44
+1369,918,2025-03-18,Tarde,M2,Falla mecánica,108
+1370,919,2025-03-18,Tarde,M3,Cambio de herramienta,7
+1371,919,2025-03-18,Tarde,M3,Cambio de herramienta,5
+1372,920,2025-03-18,Tarde,M4,Falta de material,12
+1373,922,2025-03-18,Noche,M2,Falla mecánica,17
+1374,923,2025-03-18,Noche,M3,Cambio de herramienta,5
+1375,924,2025-03-18,Noche,M4,Falta de operador,41
+1376,924,2025-03-18,Noche,M4,Falla mecánica,17
+1377,924,2025-03-18,Noche,M4,Cambio de herramienta,5
+1378,925,2025-03-19,Mañana,M1,Falla mecánica,11
+1379,926,2025-03-19,Mañana,M2,Mantenimiento no programado,13
+1380,928,2025-03-19,Mañana,M4,Falla mecánica,37
+1381,928,2025-03-19,Mañana,M4,Falta de material,5
+1382,928,2025-03-19,Mañana,M4,Cambio de herramienta,20
+1383,929,2025-03-19,Tarde,M1,Cambio de herramienta,5
+1384,930,2025-03-19,Tarde,M2,Falla mecánica,75
+1385,930,2025-03-19,Tarde,M2,Falta de operador,27
+1386,931,2025-03-19,Tarde,M3,Falla mecánica,96
+1387,932,2025-03-19,Tarde,M4,Falla mecánica,77
+1388,933,2025-03-19,Noche,M1,Mantenimiento no programado,61
+1389,933,2025-03-19,Noche,M1,Falla mecánica,6
+1390,933,2025-03-19,Noche,M1,Ajuste de calidad,6
+1391,933,2025-03-19,Noche,M1,Falta de material,19
+1392,935,2025-03-19,Noche,M3,Falla mecánica,9
+1393,935,2025-03-19,Noche,M3,Cambio de herramienta,54
+1394,935,2025-03-19,Noche,M3,Ajuste de calidad,27
+1395,936,2025-03-19,Noche,M4,Falla mecánica,132
+1396,938,2025-03-20,Mañana,M2,Falta de material,5
+1397,938,2025-03-20,Mañana,M2,Falla mecánica,80
+1398,939,2025-03-20,Mañana,M3,Falla mecánica,12
+1399,940,2025-03-20,Mañana,M4,Cambio de herramienta,40
+1400,940,2025-03-20,Mañana,M4,Falla mecánica,5
+1401,941,2025-03-20,Tarde,M1,Cambio de herramienta,5
+1402,941,2025-03-20,Tarde,M1,Mantenimiento no programado,29
+1403,941,2025-03-20,Tarde,M1,Falla mecánica,49
+1404,941,2025-03-20,Tarde,M1,Falla mecánica,39
+1405,942,2025-03-20,Tarde,M2,Cambio de herramienta,15
+1406,943,2025-03-20,Tarde,M3,Mantenimiento no programado,28
+1407,943,2025-03-20,Tarde,M3,Falta de material,5
+1408,944,2025-03-20,Tarde,M4,Cambio de herramienta,5
+1409,944,2025-03-20,Tarde,M4,Ajuste de calidad,5
+1410,944,2025-03-20,Tarde,M4,Falta de operador,60
+1411,945,2025-03-20,Noche,M1,Falta de material,5
+1412,945,2025-03-20,Noche,M1,Cambio de herramienta,5
+1413,946,2025-03-20,Noche,M2,Cambio de herramienta,5
+1414,946,2025-03-20,Noche,M2,Cambio de herramienta,20
+1415,947,2025-03-20,Noche,M3,Cambio de herramienta,20
+1416,947,2025-03-20,Noche,M3,Falla mecánica,47
+1417,949,2025-03-21,Mañana,M1,Cambio de herramienta,17
+1418,950,2025-03-21,Mañana,M2,Falla mecánica,10
+1419,951,2025-03-21,Mañana,M3,Falla mecánica,12
+1420,952,2025-03-21,Mañana,M4,Cambio de herramienta,47
+1421,952,2025-03-21,Mañana,M4,Ajuste de calidad,5
+1422,952,2025-03-21,Mañana,M4,Falta de material,25
+1423,953,2025-03-21,Tarde,M1,Cambio de herramienta,5
+1424,953,2025-03-21,Tarde,M1,Falla mecánica,17
+1425,954,2025-03-21,Tarde,M2,Cambio de herramienta,26
+1426,954,2025-03-21,Tarde,M2,Falta de operador,24
+1427,955,2025-03-21,Tarde,M3,Ajuste de calidad,5
+1428,956,2025-03-21,Tarde,M4,Cambio de herramienta,19
+1429,957,2025-03-21,Noche,M1,Cambio de herramienta,12
+1430,957,2025-03-21,Noche,M1,Falla mecánica,39
+1431,957,2025-03-21,Noche,M1,Falta de material,15
+1432,958,2025-03-21,Noche,M2,Falta de operador,15
+1433,959,2025-03-21,Noche,M3,Falta de material,5
+1434,959,2025-03-21,Noche,M3,Cambio de herramienta,95
+1435,960,2025-03-21,Noche,M4,Cambio de herramienta,30
+1436,961,2025-03-22,Mañana,M1,Cambio de herramienta,18
+1437,961,2025-03-22,Mañana,M1,Cambio de herramienta,13
+1438,962,2025-03-22,Mañana,M2,Ajuste de calidad,40
+1439,962,2025-03-22,Mañana,M2,Mantenimiento no programado,27
+1440,964,2025-03-22,Mañana,M4,Cambio de herramienta,31
+1441,965,2025-03-22,Tarde,M1,Falla mecánica,42
+1442,966,2025-03-22,Tarde,M2,Falla mecánica,16
+1443,966,2025-03-22,Tarde,M2,Falta de operador,89
+1444,966,2025-03-22,Tarde,M2,Falta de operador,5
+1445,968,2025-03-22,Tarde,M4,Cambio de herramienta,18
+1446,969,2025-03-22,Noche,M1,Cambio de herramienta,6
+1447,969,2025-03-22,Noche,M1,Falla mecánica,49
+1448,969,2025-03-22,Noche,M1,Falta de operador,5
+1449,970,2025-03-22,Noche,M2,Falla mecánica,36
+1450,970,2025-03-22,Noche,M2,Falla mecánica,5
+1451,971,2025-03-22,Noche,M3,Falta de material,5
+1452,973,2025-03-23,Mañana,M1,Mantenimiento no programado,61
+1453,974,2025-03-23,Mañana,M2,Ajuste de calidad,13
+1454,974,2025-03-23,Mañana,M2,Cambio de herramienta,5
+1455,976,2025-03-23,Mañana,M4,Falla mecánica,5
+1456,976,2025-03-23,Mañana,M4,Cambio de herramienta,5
+1457,976,2025-03-23,Mañana,M4,Mantenimiento no programado,10
+1458,977,2025-03-23,Tarde,M1,Cambio de herramienta,6
+1459,978,2025-03-23,Tarde,M2,Falla mecánica,153
+1460,978,2025-03-23,Tarde,M2,Cambio de herramienta,7
+1461,978,2025-03-23,Tarde,M2,Cambio de herramienta,5
+1462,979,2025-03-23,Tarde,M3,Cambio de herramienta,13
+1463,979,2025-03-23,Tarde,M3,Falta de material,5
+1464,979,2025-03-23,Tarde,M3,Falla mecánica,10
+1465,980,2025-03-23,Tarde,M4,Falta de operador,71
+1466,981,2025-03-23,Noche,M1,Falla mecánica,47
+1467,982,2025-03-23,Noche,M2,Cambio de herramienta,6
+1468,982,2025-03-23,Noche,M2,Cambio de herramienta,12
+1469,983,2025-03-23,Noche,M3,Cambio de herramienta,15
+1470,984,2025-03-23,Noche,M4,Falta de operador,30
+1471,984,2025-03-23,Noche,M4,Cambio de herramienta,15
+1472,985,2025-03-24,Mañana,M1,Cambio de herramienta,5
+1473,986,2025-03-24,Mañana,M2,Falta de material,5
+1474,987,2025-03-24,Mañana,M3,Cambio de herramienta,5
+1475,987,2025-03-24,Mañana,M3,Mantenimiento no programado,49
+1476,989,2025-03-24,Tarde,M1,Ajuste de calidad,11
+1477,989,2025-03-24,Tarde,M1,Falla mecánica,5
+1478,990,2025-03-24,Tarde,M2,Falla mecánica,52
+1479,991,2025-03-24,Tarde,M3,Falta de material,105
+1480,992,2025-03-24,Tarde,M4,Falla mecánica,78
+1481,993,2025-03-24,Noche,M1,Falla mecánica,56
+1482,994,2025-03-24,Noche,M2,Cambio de herramienta,9
+1483,995,2025-03-24,Noche,M3,Cambio de herramienta,5
+1484,995,2025-03-24,Noche,M3,Falla mecánica,5
+1485,996,2025-03-24,Noche,M4,Falla mecánica,45
+1486,997,2025-03-25,Mañana,M1,Falta de material,24
+1487,999,2025-03-25,Mañana,M3,Falta de operador,170
+1488,1000,2025-03-25,Mañana,M4,Cambio de herramienta,9
+1489,1001,2025-03-25,Tarde,M1,Ajuste de calidad,15
+1490,1002,2025-03-25,Tarde,M2,Falta de operador,17
+1491,1003,2025-03-25,Tarde,M3,Falta de operador,14
+1492,1004,2025-03-25,Tarde,M4,Cambio de herramienta,22
+1493,1005,2025-03-25,Noche,M1,Cambio de herramienta,8
+1494,1005,2025-03-25,Noche,M1,Cambio de herramienta,39
+1495,1006,2025-03-25,Noche,M2,Falta de material,23
+1496,1008,2025-03-25,Noche,M4,Falta de material,79
+1497,1010,2025-03-26,Mañana,M2,Ajuste de calidad,5
+1498,1010,2025-03-26,Mañana,M2,Cambio de herramienta,14
+1499,1011,2025-03-26,Mañana,M3,Cambio de herramienta,15
+1500,1013,2025-03-26,Tarde,M1,Cambio de herramienta,10
+1501,1013,2025-03-26,Tarde,M1,Falla mecánica,5
+1502,1013,2025-03-26,Tarde,M1,Cambio de herramienta,90
+1503,1013,2025-03-26,Tarde,M1,Falla mecánica,5
+1504,1014,2025-03-26,Tarde,M2,Cambio de herramienta,19
+1505,1014,2025-03-26,Tarde,M2,Cambio de herramienta,5
+1506,1014,2025-03-26,Tarde,M2,Cambio de herramienta,15
+1507,1014,2025-03-26,Tarde,M2,Ajuste de calidad,19
+1508,1015,2025-03-26,Tarde,M3,Ajuste de calidad,5
+1509,1015,2025-03-26,Tarde,M3,Cambio de herramienta,15
+1510,1015,2025-03-26,Tarde,M3,Falla mecánica,61
+1511,1015,2025-03-26,Tarde,M3,Falla mecánica,8
+1512,1016,2025-03-26,Tarde,M4,Falla mecánica,5
+1513,1016,2025-03-26,Tarde,M4,Cambio de herramienta,22
+1514,1016,2025-03-26,Tarde,M4,Cambio de herramienta,26
+1515,1018,2025-03-26,Noche,M2,Mantenimiento no programado,14
+1516,1019,2025-03-26,Noche,M3,Falla mecánica,39
+1517,1020,2025-03-26,Noche,M4,Falta de material,12
+1518,1022,2025-03-27,Mañana,M2,Falla mecánica,61
+1519,1023,2025-03-27,Mañana,M3,Falta de material,21
+1520,1023,2025-03-27,Mañana,M3,Falta de material,66
+1521,1024,2025-03-27,Mañana,M4,Falla mecánica,184
+1522,1024,2025-03-27,Mañana,M4,Falta de material,5
+1523,1026,2025-03-27,Tarde,M2,Falla mecánica,8
+1524,1029,2025-03-27,Noche,M1,Cambio de herramienta,20
+1525,1029,2025-03-27,Noche,M1,Falla mecánica,43
+1526,1029,2025-03-27,Noche,M1,Ajuste de calidad,10
+1527,1029,2025-03-27,Noche,M1,Cambio de herramienta,6
+1528,1030,2025-03-27,Noche,M2,Falta de operador,18
+1529,1030,2025-03-27,Noche,M2,Cambio de herramienta,17
+1530,1030,2025-03-27,Noche,M2,Falta de material,100
+1531,1031,2025-03-27,Noche,M3,Falla mecánica,65
+1532,1031,2025-03-27,Noche,M3,Falta de material,11
+1533,1031,2025-03-27,Noche,M3,Falla mecánica,81
+1534,1032,2025-03-27,Noche,M4,Mantenimiento no programado,68
+1535,1033,2025-03-28,Mañana,M1,Mantenimiento no programado,83
+1536,1035,2025-03-28,Mañana,M3,Cambio de herramienta,5
+1537,1035,2025-03-28,Mañana,M3,Cambio de herramienta,5
+1538,1035,2025-03-28,Mañana,M3,Mantenimiento no programado,15
+1539,1036,2025-03-28,Mañana,M4,Falta de material,70
+1540,1036,2025-03-28,Mañana,M4,Falla mecánica,5
+1541,1036,2025-03-28,Mañana,M4,Cambio de herramienta,54
+1542,1040,2025-03-28,Tarde,M4,Falta de material,10
+1543,1042,2025-03-28,Noche,M2,Falta de material,5
+1544,1043,2025-03-28,Noche,M3,Falta de operador,55
+1545,1045,2025-03-29,Mañana,M1,Cambio de herramienta,5
+1546,1045,2025-03-29,Mañana,M1,Falta de material,21
+1547,1046,2025-03-29,Mañana,M2,Falla mecánica,18
+1548,1047,2025-03-29,Mañana,M3,Falta de operador,5
+1549,1047,2025-03-29,Mañana,M3,Mantenimiento no programado,40
+1550,1050,2025-03-29,Tarde,M2,Mantenimiento no programado,10
+1551,1052,2025-03-29,Tarde,M4,Falla mecánica,57
+1552,1055,2025-03-29,Noche,M3,Mantenimiento no programado,141
+1553,1056,2025-03-29,Noche,M4,Falta de material,18
+1554,1057,2025-03-30,Mañana,M1,Falla mecánica,10
+1555,1058,2025-03-30,Mañana,M2,Cambio de herramienta,18
+1556,1059,2025-03-30,Mañana,M3,Falla mecánica,28
+1557,1059,2025-03-30,Mañana,M3,Ajuste de calidad,14
+1558,1061,2025-03-30,Tarde,M1,Cambio de herramienta,10
+1559,1061,2025-03-30,Tarde,M1,Cambio de herramienta,5
+1560,1063,2025-03-30,Tarde,M3,Mantenimiento no programado,12
+1561,1065,2025-03-30,Noche,M1,Cambio de herramienta,20
+1562,1065,2025-03-30,Noche,M1,Falla mecánica,5
+1563,1065,2025-03-30,Noche,M1,Cambio de herramienta,15
+1564,1065,2025-03-30,Noche,M1,Falta de operador,5
+1565,1066,2025-03-30,Noche,M2,Cambio de herramienta,5
+1566,1067,2025-03-30,Noche,M3,Ajuste de calidad,18
+1567,1068,2025-03-30,Noche,M4,Falla mecánica,73
+1568,1068,2025-03-30,Noche,M4,Falla mecánica,217
+1569,1069,2025-03-31,Mañana,M1,Falta de operador,13
+1570,1072,2025-03-31,Mañana,M4,Falla mecánica,126
+1571,1072,2025-03-31,Mañana,M4,Falla mecánica,86
+1572,1074,2025-03-31,Tarde,M2,Falla mecánica,5
+1573,1075,2025-03-31,Tarde,M3,Cambio de herramienta,20
+1574,1076,2025-03-31,Tarde,M4,Falta de material,39
+1575,1077,2025-03-31,Noche,M1,Falta de material,5
+1576,1078,2025-03-31,Noche,M2,Falla mecánica,94
+1577,1078,2025-03-31,Noche,M2,Falla mecánica,6
+1578,1080,2025-03-31,Noche,M4,Falta de operador,18
+1579,1080,2025-03-31,Noche,M4,Falla mecánica,114
+1580,1080,2025-03-31,Noche,M4,Ajuste de calidad,19
+1581,1080,2025-03-31,Noche,M4,Falta de material,6

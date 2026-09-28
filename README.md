@@ -68,7 +68,7 @@ Por debajo del estándar de "clase mundial" (85%), pero por encima del típico d
 | M3 | 74.5% |
 | M4 | 75.4% |
 
-La poca variación entre maquinas (menos de 1.1 puntos porcentuales) indica que el problema **no está concentrado en una maquina especifica** --las mejoras deben apuntar a causas sistémicas de la línea completa, no a intervenciones puntuales en un equipo.
+La poca variación entre maquinas (menos de 1.1 puntos porcentuales) indica que el problema **no está concentrado en una maquina especifica** - las mejoras deben apuntar a causas sistémicas de la línea completa, no a intervenciones puntuales en un equipo.
 
 ### 3. Dos causas explican la mayoría del tiempo muerto
 El análisis de Pareto sobre los eventos de paro muestra que **Falla mecánica** y **Cambio de herramienta**, juntas concentran aproximadamente el 70%-75% del tiempo muerto total, mientras que las otras 4 causas (falta de material, ajuste de calidad, falta de operador, mantenimiento no programado) se reparten el resto.

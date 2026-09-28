@@ -16,7 +16,7 @@ Una planta de manufactura con 4 maquinas operando en 3 turnos quiere entender:
 
 No existe un data set público que traiga la estructura necesaria para calcular OEE real (tiempo planeado, tiempo de paro por causa, piezas buenas/defectuosas), por eso se **genero un dataset sintetico con Python** (`generar_datos.py`), simulando 90 dias produccion en 4 maquinas por 3 turnos, con causas de paro ralista y distintas probabilidades/duraciones (falla mecanica, cambio de herramienta, falta de material, ajuste de calidad, falta de operador, mantenimiento no programado).
 Esto produce dos tablas relacionadas:
-- `produccion.csv` un renglon por maquina, turno dia (piezas producidas, buenas, defectuosas,, tiempo muerto total)
+- `produccion.csv` un renglon por maquina, turno dia (piezas producidas, buenas, defectuosas, tiempo muerto total)
 - `paros.csv` un renglon por cada evento de paro individual, con su causa y duracion
 
 ## Proceso

@@ -80,15 +80,15 @@ El análisis de Pareto sobre los eventos de paro muestra que **Falla mecánica**
 ## Estructura del repositorio
 
 ```
-|---generar_datos.py   Simulación de datos de producción y paros
+|---generar_datos.py---Simulación de datos de producción y paros
 |---cargar_datos_oee.py---Carga a MySQL (tablas relacionadas)
-|---consultas_oee.sql   # Exploración inicial en SQL
-|---analisis_oee.py   # Calculo de OEE y exportacion
-|---prodcuccion.csv   # Datos originales generados
+|---consultas_oee.sql---Exploración inicial en SQL
+|---analisis_oee.py---Calculo de OEE y exportacion
+|---prodcuccion.csv---Datos originales generados
 |---paros.csv
-|---produccion_oee.csv   # Datos con OEE calculado (para Excel)
+|---produccion_oee.csv---Datos con OEE calculado (para Excel)
 |---paros_export.csv
-|---dashboard_oee.xlsx   # Dashboard interactivo en Excel
+|---dashboard_oee.xlsx---Dashboard interactivo en Excel
 |---dashboard_excel.png
 |---README.md
 

@@ -1,6 +1,6 @@
 # Análisis de OEE y Tiempos Muertos-Línea de Producción
 Proyecto de análisis de datos de punta a punta enfocado en manufactura: desde datos sintéticos generados en Python hasta un dashboard interactivo en Excel, pasando por SQL para almacenamiento y consulta.
-**Stack:**Python(pandas, numpy), MySQL, Excel(tablas dinamicas, segmentadores, grafico de Pareto)
+**Stack:** Python(pandas, numpy), MySQL, Excel(tablas dinamicas, segmentadores, grafico de Pareto)
 
 ---
 
